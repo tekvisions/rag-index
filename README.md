@@ -4,7 +4,7 @@ A living index of **retrieval-augmented-generation tooling** — RAG frameworks,
 embeddings, reranking, and ingestion — ranked by **momentum** (stars, push-recency, rising-newness)
 computed from live GitHub signals.
 
-Live: https://rag-index.vercel.app · part of [The Living Indexes](https://living-indexes.vercel.app)
+Live: https://rag.kymatalabs.com · part of [The Living Indexes](https://indexes.kymatalabs.com)
 
 ## How it works (self-updating)
 
