@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T09:33:53.372744+00:00",
+ "generated_at": "2026-08-21T09:35:54.635585+00:00",
  "count": 227,
  "categories": [
   {
@@ -20,11 +20,11 @@
   },
   {
    "name": "RAG Frameworks",
-   "count": 27
+   "count": 28
   },
   {
    "name": "Graph RAG",
-   "count": 18
+   "count": 17
   },
   {
    "name": "Ingestion & Parsing",
@@ -43,9 +43,9 @@
    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
    "owner": "Shubhamsaboo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/31396011?v=4",
-   "stars": 133315,
-   "forks": 19621,
-   "open_issues": 15,
+   "stars": 133427,
+   "forks": 19632,
+   "open_issues": 14,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-08-17T02:42:50Z",
@@ -68,12 +68,12 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "owner": "Graphify-Labs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/297659074?v=4",
-   "stars": 108501,
-   "forks": 10525,
-   "open_issues": 1001,
+   "stars": 108867,
+   "forks": 10575,
+   "open_issues": 1025,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-19T13:37:02Z",
+   "pushed_at": "2026-08-20T16:39:37Z",
    "created_at": "2026-04-03T15:49:07Z",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "topics": [
@@ -108,12 +108,12 @@
    "url": "https://github.com/infiniflow/ragflow",
    "owner": "infiniflow",
    "owner_avatar": "https://avatars.githubusercontent.com/u/69962740?v=4",
-   "stars": 88890,
-   "forks": 10436,
-   "open_issues": 1797,
+   "stars": 88959,
+   "forks": 10451,
+   "open_issues": 1764,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T09:11:48Z",
+   "pushed_at": "2026-08-21T08:52:05Z",
    "created_at": "2023-12-12T06:13:13Z",
    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
    "topics": [
@@ -143,12 +143,12 @@
    "url": "https://github.com/headroomlabs-ai/headroom",
    "owner": "headroomlabs-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/294291659?v=4",
-   "stars": 66939,
-   "forks": 5153,
-   "open_issues": 506,
+   "stars": 67045,
+   "forks": 5167,
+   "open_issues": 499,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T07:28:26Z",
+   "pushed_at": "2026-08-21T06:10:16Z",
    "created_at": "2026-01-07T19:58:51Z",
    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
    "topics": [
@@ -184,8 +184,8 @@
    "url": "https://github.com/meilisearch/meilisearch",
    "owner": "meilisearch",
    "owner_avatar": "https://avatars.githubusercontent.com/u/43250847?v=4",
-   "stars": 59023,
-   "forks": 2672,
+   "stars": 59034,
+   "forks": 2673,
    "open_issues": 311,
    "language": "Rust",
    "license": "NOASSERTION",
@@ -225,12 +225,12 @@
    "url": "https://github.com/run-llama/llama_index",
    "owner": "run-llama",
    "owner_avatar": "https://avatars.githubusercontent.com/u/130722866?v=4",
-   "stars": 51760,
-   "forks": 7974,
-   "open_issues": 640,
+   "stars": 51787,
+   "forks": 7980,
+   "open_issues": 643,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-08-19T18:48:01Z",
+   "pushed_at": "2026-08-20T15:46:41Z",
    "created_at": "2022-11-02T04:24:54Z",
    "description": "LlamaIndex is the leading document agent and OCR platform",
    "topics": [
@@ -256,12 +256,12 @@
    "url": "https://github.com/milvus-io/milvus",
    "owner": "milvus-io",
    "owner_avatar": "https://avatars.githubusercontent.com/u/51735404?v=4",
-   "stars": 45706,
-   "forks": 4189,
-   "open_issues": 1319,
+   "stars": 45726,
+   "forks": 4191,
+   "open_issues": 1321,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T09:33:28Z",
+   "pushed_at": "2026-08-21T08:07:22Z",
    "created_at": "2019-09-16T06:43:43Z",
    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
    "topics": [
@@ -289,15 +289,49 @@
    "rank": 7
   },
   {
+   "name": "ai-agent-book",
+   "full_name": "bojieli/ai-agent-book",
+   "slug": "bojieli-ai-agent-book",
+   "url": "https://github.com/bojieli/ai-agent-book",
+   "owner": "bojieli",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1421793?v=4",
+   "stars": 40569,
+   "forks": 4464,
+   "open_issues": 4,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-08-21T08:51:50Z",
+   "created_at": "2025-09-09T02:41:44Z",
+   "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+   "topics": [
+    "agent",
+    "agent-memory",
+    "ai-agent",
+    "book",
+    "coding-agent",
+    "context-engineering",
+    "large-language-models",
+    "llm",
+    "mcp",
+    "multi-agent",
+    "multimodal",
+    "rag",
+    "reinforcement-learning"
+   ],
+   "category": "RAG Frameworks",
+   "momentum": 81,
+   "rank": 8
+  },
+  {
    "name": "langgraph",
    "full_name": "langchain-ai/langgraph",
    "slug": "langchain-ai-langgraph",
    "url": "https://github.com/langchain-ai/langgraph",
    "owner": "langchain-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/126733545?v=4",
-   "stars": 40082,
-   "forks": 6744,
-   "open_issues": 701,
+   "stars": 40153,
+   "forks": 6756,
+   "open_issues": 705,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-08-20T07:50:25Z",
@@ -323,40 +357,6 @@
     "python",
     "rag"
    ],
-   "category": "Graph RAG",
-   "momentum": 81,
-   "rank": 8
-  },
-  {
-   "name": "ai-agent-book",
-   "full_name": "bojieli/ai-agent-book",
-   "slug": "bojieli-ai-agent-book",
-   "url": "https://github.com/bojieli/ai-agent-book",
-   "owner": "bojieli",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/1421793?v=4",
-   "stars": 39987,
-   "forks": 4400,
-   "open_issues": 4,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T03:39:44Z",
-   "created_at": "2025-09-09T02:41:44Z",
-   "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-   "topics": [
-    "agent",
-    "agent-memory",
-    "ai-agent",
-    "book",
-    "coding-agent",
-    "context-engineering",
-    "large-language-models",
-    "llm",
-    "mcp",
-    "multi-agent",
-    "multimodal",
-    "rag",
-    "reinforcement-learning"
-   ],
    "category": "RAG Frameworks",
    "momentum": 81,
    "rank": 9
@@ -368,12 +368,12 @@
    "url": "https://github.com/HKUDS/LightRAG",
    "owner": "HKUDS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
-   "stars": 39005,
+   "stars": 39047,
    "forks": 5488,
-   "open_issues": 207,
+   "open_issues": 211,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-08-20T09:02:42Z",
+   "pushed_at": "2026-08-21T03:29:43Z",
    "created_at": "2024-10-02T11:57:54Z",
    "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
    "topics": [
@@ -400,12 +400,12 @@
    "url": "https://github.com/HKUDS/DeepTutor",
    "owner": "HKUDS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
-   "stars": 36585,
-   "forks": 4599,
-   "open_issues": 115,
+   "stars": 36780,
+   "forks": 4625,
+   "open_issues": 117,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T06:18:04Z",
+   "pushed_at": "2026-08-21T08:13:30Z",
    "created_at": "2025-12-28T15:35:54Z",
    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
    "topics": [
@@ -430,9 +430,9 @@
    "url": "https://github.com/microsoft/graphrag",
    "owner": "microsoft",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-   "stars": 35590,
-   "forks": 3742,
-   "open_issues": 36,
+   "stars": 35606,
+   "forks": 3741,
+   "open_issues": 37,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-08-19T15:22:39Z",
@@ -458,12 +458,12 @@
    "url": "https://github.com/VectifyAI/PageIndex",
    "owner": "VectifyAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/133959746?v=4",
-   "stars": 35261,
-   "forks": 3104,
+   "stars": 35278,
+   "forks": 3107,
    "open_issues": 158,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-08-20T08:59:21Z",
+   "pushed_at": "2026-08-21T09:32:51Z",
    "created_at": "2025-04-01T10:53:54Z",
    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
    "topics": [
@@ -491,12 +491,12 @@
    "url": "https://github.com/qdrant/qdrant",
    "owner": "qdrant",
    "owner_avatar": "https://avatars.githubusercontent.com/u/73504361?v=4",
-   "stars": 34082,
-   "forks": 2596,
-   "open_issues": 686,
+   "stars": 34110,
+   "forks": 2601,
+   "open_issues": 695,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T08:43:00Z",
+   "pushed_at": "2026-08-21T09:21:59Z",
    "created_at": "2020-05-30T21:37:01Z",
    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
    "topics": [
@@ -532,9 +532,9 @@
    "url": "https://github.com/PaddlePaddle/PaddleOCR",
    "owner": "PaddlePaddle",
    "owner_avatar": "https://avatars.githubusercontent.com/u/23534030?v=4",
-   "stars": 87977,
-   "forks": 11205,
-   "open_issues": 235,
+   "stars": 88032,
+   "forks": 11212,
+   "open_issues": 234,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-22T11:59:34Z",
@@ -566,12 +566,12 @@
    "url": "https://github.com/onyx-dot-app/onyx",
    "owner": "onyx-dot-app",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131946000?v=4",
-   "stars": 31683,
+   "stars": 31696,
    "forks": 4369,
-   "open_issues": 424,
+   "open_issues": 405,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-08-20T06:36:20Z",
+   "pushed_at": "2026-08-21T09:28:29Z",
    "created_at": "2023-04-27T06:04:01Z",
    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
    "topics": [
@@ -601,12 +601,12 @@
    "url": "https://github.com/topoteretes/cognee",
    "owner": "topoteretes",
    "owner_avatar": "https://avatars.githubusercontent.com/u/125468716?v=4",
-   "stars": 30138,
-   "forks": 2939,
-   "open_issues": 356,
+   "stars": 30166,
+   "forks": 2944,
+   "open_issues": 359,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T09:31:59Z",
+   "pushed_at": "2026-08-21T08:42:23Z",
    "created_at": "2023-08-16T16:16:33Z",
    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
    "topics": [
@@ -641,12 +641,12 @@
    "url": "https://github.com/getzep/graphiti",
    "owner": "getzep",
    "owner_avatar": "https://avatars.githubusercontent.com/u/132832125?v=4",
-   "stars": 30120,
-   "forks": 3047,
-   "open_issues": 494,
+   "stars": 30154,
+   "forks": 3055,
+   "open_issues": 487,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-18T16:24:04Z",
+   "pushed_at": "2026-08-21T01:52:20Z",
    "created_at": "2024-08-08T22:08:30Z",
    "description": "Build Real-Time Knowledge Graphs for AI Agents",
    "topics": [
@@ -666,12 +666,12 @@
    "url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
    "owner": "ScrapeGraphAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/171017415?v=4",
-   "stars": 29756,
-   "forks": 2950,
-   "open_issues": 14,
+   "stars": 29784,
+   "forks": 2951,
+   "open_issues": 12,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-08-20T06:50:51Z",
+   "pushed_at": "2026-08-21T08:21:57Z",
    "created_at": "2024-01-27T16:54:38Z",
    "description": "Python scraper based on AI",
    "topics": [
@@ -707,12 +707,12 @@
    "url": "https://github.com/labring/FastGPT",
    "owner": "labring",
    "owner_avatar": "https://avatars.githubusercontent.com/u/102226726?v=4",
-   "stars": 29403,
-   "forks": 7274,
-   "open_issues": 173,
+   "stars": 29414,
+   "forks": 7275,
+   "open_issues": 175,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-08-20T09:25:42Z",
+   "pushed_at": "2026-08-21T09:29:05Z",
    "created_at": "2023-02-23T16:53:25Z",
    "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
    "topics": [
@@ -738,12 +738,12 @@
    "url": "https://github.com/opendataloader-project/opendataloader-pdf",
    "owner": "opendataloader-project",
    "owner_avatar": "https://avatars.githubusercontent.com/u/211280852?v=4",
-   "stars": 28591,
-   "forks": 2728,
-   "open_issues": 77,
+   "stars": 28629,
+   "forks": 2733,
+   "open_issues": 78,
    "language": "Java",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-18T15:06:46Z",
+   "pushed_at": "2026-08-21T09:13:34Z",
    "created_at": "2025-05-13T05:48:02Z",
    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
    "topics": [
@@ -779,12 +779,12 @@
    "url": "https://github.com/deepset-ai/haystack",
    "owner": "deepset-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/51827949?v=4",
-   "stars": 26259,
-   "forks": 3028,
-   "open_issues": 105,
+   "stars": 26266,
+   "forks": 3026,
+   "open_issues": 100,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T08:58:55Z",
+   "pushed_at": "2026-08-21T09:06:05Z",
    "created_at": "2019-11-14T09:05:28Z",
    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
    "topics": [
@@ -814,14 +814,37 @@
    "rank": 22
   },
   {
+   "name": "RAG-Anything",
+   "full_name": "HKUDS/RAG-Anything",
+   "slug": "hkuds-rag-anything",
+   "url": "https://github.com/HKUDS/RAG-Anything",
+   "owner": "HKUDS",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
+   "stars": 23009,
+   "forks": 2668,
+   "open_issues": 114,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-08-20T11:39:08Z",
+   "created_at": "2025-06-06T06:47:29Z",
+   "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+   "topics": [
+    "multi-modal-rag",
+    "retrieval-augmented-generation"
+   ],
+   "category": "Retrieval & Search",
+   "momentum": 79,
+   "rank": 23
+  },
+  {
    "name": "khoj",
    "full_name": "khoj-ai/khoj",
    "slug": "khoj-ai-khoj",
    "url": "https://github.com/khoj-ai/khoj",
    "owner": "khoj-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134046886?v=4",
-   "stars": 36584,
-   "forks": 2395,
+   "stars": 36612,
+   "forks": 2396,
    "open_issues": 135,
    "language": "Python",
    "license": "AGPL-3.0",
@@ -852,7 +875,7 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 78,
-   "rank": 23
+   "rank": 24
   },
   {
    "name": "happy-llm",
@@ -861,8 +884,8 @@
    "url": "https://github.com/datawhalechina/happy-llm",
    "owner": "datawhalechina",
    "owner_avatar": "https://avatars.githubusercontent.com/u/46047812?v=4",
-   "stars": 33084,
-   "forks": 3136,
+   "stars": 33108,
+   "forks": 3137,
    "open_issues": 63,
    "language": "Jupyter Notebook",
    "license": "NOASSERTION",
@@ -876,29 +899,6 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 78,
-   "rank": 24
-  },
-  {
-   "name": "RAG-Anything",
-   "full_name": "HKUDS/RAG-Anything",
-   "slug": "hkuds-rag-anything",
-   "url": "https://github.com/HKUDS/RAG-Anything",
-   "owner": "HKUDS",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
-   "stars": 23000,
-   "forks": 2665,
-   "open_issues": 114,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-08-13T16:58:25Z",
-   "created_at": "2025-06-06T06:47:29Z",
-   "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-   "topics": [
-    "multi-modal-rag",
-    "retrieval-augmented-generation"
-   ],
-   "category": "Retrieval & Search",
-   "momentum": 78,
    "rank": 25
   },
   {
@@ -908,12 +908,12 @@
    "url": "https://github.com/huggingface/sentence-transformers",
    "owner": "huggingface",
    "owner_avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
-   "stars": 19022,
-   "forks": 2858,
-   "open_issues": 1314,
+   "stars": 19024,
+   "forks": 2861,
+   "open_issues": 1316,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-19T15:10:07Z",
+   "pushed_at": "2026-08-21T06:52:41Z",
    "created_at": "2019-07-24T10:53:51Z",
    "description": "State-of-the-Art Embeddings, Retrieval, and Reranking",
    "topics": [],
@@ -928,9 +928,9 @@
    "url": "https://github.com/patchy631/ai-engineering-hub",
    "owner": "patchy631",
    "owner_avatar": "https://avatars.githubusercontent.com/u/38653995?v=4",
-   "stars": 37048,
-   "forks": 6115,
-   "open_issues": 123,
+   "stars": 37055,
+   "forks": 6118,
+   "open_issues": 124,
    "language": "Jupyter Notebook",
    "license": "MIT",
    "pushed_at": "2026-07-27T18:43:06Z",
@@ -955,12 +955,12 @@
    "url": "https://github.com/weaviate/weaviate",
    "owner": "weaviate",
    "owner_avatar": "https://avatars.githubusercontent.com/u/37794290?v=4",
-   "stars": 16740,
-   "forks": 1370,
+   "stars": 16745,
+   "forks": 1373,
    "open_issues": 692,
    "language": "Go",
    "license": "BSD-3-Clause",
-   "pushed_at": "2026-08-20T09:23:05Z",
+   "pushed_at": "2026-08-21T09:33:52Z",
    "created_at": "2016-03-30T15:03:17Z",
    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
    "topics": [
@@ -996,12 +996,12 @@
    "url": "https://github.com/alibaba/zvec",
    "owner": "alibaba",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1961952?v=4",
-   "stars": 15474,
-   "forks": 978,
-   "open_issues": 58,
+   "stars": 15496,
+   "forks": 979,
+   "open_issues": 59,
    "language": "C++",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T00:01:06Z",
+   "pushed_at": "2026-08-21T04:26:43Z",
    "created_at": "2025-12-05T07:45:38Z",
    "description": "A lightweight, lightning-fast, in-process vector database",
    "topics": [
@@ -1030,12 +1030,12 @@
    "url": "https://github.com/langchain4j/langchain4j",
    "owner": "langchain4j",
    "owner_avatar": "https://avatars.githubusercontent.com/u/132277850?v=4",
-   "stars": 12916,
-   "forks": 2475,
-   "open_issues": 847,
+   "stars": 12924,
+   "forks": 2477,
+   "open_issues": 854,
    "language": "Java",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T09:22:46Z",
+   "pushed_at": "2026-08-21T08:49:46Z",
    "created_at": "2023-06-20T15:30:29Z",
    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.",
    "topics": [
@@ -1071,8 +1071,8 @@
    "url": "https://github.com/neuml/txtai",
    "owner": "neuml",
    "owner_avatar": "https://avatars.githubusercontent.com/u/59890304?v=4",
-   "stars": 12896,
-   "forks": 876,
+   "stars": 12898,
+   "forks": 878,
    "open_issues": 8,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1106,14 +1106,51 @@
    "rank": 31
   },
   {
+   "name": "LEANN",
+   "full_name": "StarTrail-org/LEANN",
+   "slug": "startrail-org-leann",
+   "url": "https://github.com/StarTrail-org/LEANN",
+   "owner": "StarTrail-org",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/288858980?v=4",
+   "stars": 12821,
+   "forks": 1148,
+   "open_issues": 47,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-08-21T05:08:59Z",
+   "created_at": "2025-06-09T06:52:59Z",
+   "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+   "topics": [
+    "ai",
+    "faiss",
+    "gpt-oss",
+    "langchain",
+    "llama-index",
+    "llm",
+    "localstorage",
+    "offline-first",
+    "ollama",
+    "privacy",
+    "python",
+    "rag",
+    "retrieval-augmented-generation",
+    "vector-database",
+    "vector-search",
+    "vectors"
+   ],
+   "category": "Retrieval & Search",
+   "momentum": 76,
+   "rank": 32
+  },
+  {
    "name": "llm-app",
    "full_name": "pathwaycom/llm-app",
    "slug": "pathwaycom-llm-app",
    "url": "https://github.com/pathwaycom/llm-app",
    "owner": "pathwaycom",
    "owner_avatar": "https://avatars.githubusercontent.com/u/25750857?v=4",
-   "stars": 59017,
-   "forks": 1471,
+   "stars": 59019,
+   "forks": 1475,
    "open_issues": 8,
    "language": "Jupyter Notebook",
    "license": "MIT",
@@ -1139,7 +1176,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 75,
-   "rank": 32
+   "rank": 33
   },
   {
    "name": "FlagEmbedding",
@@ -1148,7 +1185,7 @@
    "url": "https://github.com/FlagOpen/FlagEmbedding",
    "owner": "FlagOpen",
    "owner_avatar": "https://avatars.githubusercontent.com/u/114467038?v=4",
-   "stars": 12063,
+   "stars": 12067,
    "forks": 907,
    "open_issues": 910,
    "language": "Python",
@@ -1166,7 +1203,7 @@
    ],
    "category": "Embeddings",
    "momentum": 75,
-   "rank": 33
+   "rank": 34
   },
   {
    "name": "lancedb",
@@ -1175,12 +1212,12 @@
    "url": "https://github.com/lancedb/lancedb",
    "owner": "lancedb",
    "owner_avatar": "https://avatars.githubusercontent.com/u/108903835?v=4",
-   "stars": 11203,
-   "forks": 1013,
-   "open_issues": 624,
+   "stars": 11225,
+   "forks": 1018,
+   "open_issues": 633,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T00:08:44Z",
+   "pushed_at": "2026-08-21T09:24:42Z",
    "created_at": "2023-02-28T01:15:17Z",
    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
    "topics": [
@@ -1195,7 +1232,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 75,
-   "rank": 34
+   "rank": 35
   },
   {
    "name": "oceanbase",
@@ -1204,12 +1241,12 @@
    "url": "https://github.com/oceanbase/oceanbase",
    "owner": "oceanbase",
    "owner_avatar": "https://avatars.githubusercontent.com/u/82347605?v=4",
-   "stars": 10247,
+   "stars": 10252,
    "forks": 1910,
    "open_issues": 584,
    "language": "C++",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T01:01:17Z",
+   "pushed_at": "2026-08-21T01:00:39Z",
    "created_at": "2021-05-31T14:36:17Z",
    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
    "topics": [
@@ -1236,7 +1273,7 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 75,
-   "rank": 35
+   "rank": 36
   },
   {
    "name": "databend",
@@ -1245,12 +1282,12 @@
    "url": "https://github.com/databendlabs/databend",
    "owner": "databendlabs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/80994548?v=4",
-   "stars": 9416,
-   "forks": 891,
-   "open_issues": 555,
+   "stars": 9420,
+   "forks": 892,
+   "open_issues": 563,
    "language": "Rust",
    "license": "NOASSERTION",
-   "pushed_at": "2026-08-20T09:06:23Z",
+   "pushed_at": "2026-08-21T09:22:08Z",
    "created_at": "2020-10-10T06:04:42Z",
    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.",
    "topics": [
@@ -1271,7 +1308,7 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 75,
-   "rank": 36
+   "rank": 37
   },
   {
    "name": "paradedb",
@@ -1280,12 +1317,12 @@
    "url": "https://github.com/paradedb/paradedb",
    "owner": "paradedb",
    "owner_avatar": "https://avatars.githubusercontent.com/u/124464601?v=4",
-   "stars": 9175,
-   "forks": 435,
-   "open_issues": 187,
+   "stars": 9178,
+   "forks": 436,
+   "open_issues": 180,
    "language": "Rust",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-08-20T09:33:31Z",
+   "pushed_at": "2026-08-21T04:22:15Z",
    "created_at": "2023-06-30T20:21:47Z",
    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.",
    "topics": [
@@ -1311,8 +1348,8 @@
     "vector-search"
    ],
    "category": "Ingestion & Parsing",
-   "momentum": 75,
-   "rank": 37
+   "momentum": 74,
+   "rank": 38
   },
   {
    "name": "local-deep-research",
@@ -1321,12 +1358,12 @@
    "url": "https://github.com/LearningCircuit/local-deep-research",
    "owner": "LearningCircuit",
    "owner_avatar": "https://avatars.githubusercontent.com/u/185559241?v=4",
-   "stars": 8950,
-   "forks": 791,
-   "open_issues": 370,
+   "stars": 8955,
+   "forks": 792,
+   "open_issues": 381,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-08-20T08:13:49Z",
+   "pushed_at": "2026-08-21T07:44:59Z",
    "created_at": "2025-02-09T15:41:32Z",
    "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
    "topics": [
@@ -1353,7 +1390,7 @@
    ],
    "category": "Ingestion & Parsing",
    "momentum": 74,
-   "rank": 38
+   "rank": 39
   },
   {
    "name": "server",
@@ -1362,12 +1399,12 @@
    "url": "https://github.com/MariaDB/server",
    "owner": "MariaDB",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4739304?v=4",
-   "stars": 8113,
+   "stars": 8117,
    "forks": 2079,
-   "open_issues": 459,
+   "open_issues": 461,
    "language": "C++",
    "license": "GPL-2.0",
-   "pushed_at": "2026-08-20T09:25:06Z",
+   "pushed_at": "2026-08-21T09:20:59Z",
    "created_at": "2014-05-15T10:58:50Z",
    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
    "topics": [
@@ -1389,7 +1426,7 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 74,
-   "rank": 39
+   "rank": 40
   },
   {
    "name": "kotaemon",
@@ -1398,8 +1435,8 @@
    "url": "https://github.com/Cinnamon/kotaemon",
    "owner": "Cinnamon",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3265185?v=4",
-   "stars": 25705,
-   "forks": 2144,
+   "stars": 25707,
+   "forks": 2143,
    "open_issues": 240,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1414,43 +1451,6 @@
    ],
    "category": "Ingestion & Parsing",
    "momentum": 73,
-   "rank": 40
-  },
-  {
-   "name": "LEANN",
-   "full_name": "StarTrail-org/LEANN",
-   "slug": "startrail-org-leann",
-   "url": "https://github.com/StarTrail-org/LEANN",
-   "owner": "StarTrail-org",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/288858980?v=4",
-   "stars": 12815,
-   "forks": 1146,
-   "open_issues": 48,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-31T18:53:24Z",
-   "created_at": "2025-06-09T06:52:59Z",
-   "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
-   "topics": [
-    "ai",
-    "faiss",
-    "gpt-oss",
-    "langchain",
-    "llama-index",
-    "llm",
-    "localstorage",
-    "offline-first",
-    "ollama",
-    "privacy",
-    "python",
-    "rag",
-    "retrieval-augmented-generation",
-    "vector-database",
-    "vector-search",
-    "vectors"
-   ],
-   "category": "Retrieval & Search",
-   "momentum": 73,
    "rank": 41
   },
   {
@@ -1460,7 +1460,7 @@
    "url": "https://github.com/WangRongsheng/awesome-LLM-resources",
    "owner": "WangRongsheng",
    "owner_avatar": "https://avatars.githubusercontent.com/u/55651568?v=4",
-   "stars": 8851,
+   "stars": 8858,
    "forks": 957,
    "open_issues": 25,
    "language": "",
@@ -1487,47 +1487,18 @@
    "rank": 42
   },
   {
-   "name": "azure-search-openai-demo",
-   "full_name": "Azure-Samples/azure-search-openai-demo",
-   "slug": "azure-samples-azure-search-openai-demo",
-   "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
-   "owner": "Azure-Samples",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/1844662?v=4",
-   "stars": 7738,
-   "forks": 5465,
-   "open_issues": 525,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-08-13T12:54:39Z",
-   "created_at": "2023-02-08T21:00:54Z",
-   "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.",
-   "topics": [
-    "ai-azd-templates",
-    "azd-templates",
-    "azure",
-    "azure-ai-search",
-    "azurecognitivesearch",
-    "azureopenai",
-    "chatgpt",
-    "openai"
-   ],
-   "category": "Retrieval & Search",
-   "momentum": 73,
-   "rank": 43
-  },
-  {
    "name": "vespa",
    "full_name": "vespa-engine/vespa",
    "slug": "vespa-engine-vespa",
    "url": "https://github.com/vespa-engine/vespa",
    "owner": "vespa-engine",
    "owner_avatar": "https://avatars.githubusercontent.com/u/29299694?v=4",
-   "stars": 7057,
-   "forks": 734,
-   "open_issues": 257,
+   "stars": 7056,
+   "forks": 735,
+   "open_issues": 253,
    "language": "Java",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T09:18:07Z",
+   "pushed_at": "2026-08-21T09:25:11Z",
    "created_at": "2016-06-03T20:54:20Z",
    "description": "The AI search platform",
    "topics": [
@@ -1548,7 +1519,7 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 73,
-   "rank": 44
+   "rank": 43
   },
   {
    "name": "honcho",
@@ -1557,12 +1528,12 @@
    "url": "https://github.com/plastic-labs/honcho",
    "owner": "plastic-labs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/123981229?v=4",
-   "stars": 6741,
-   "forks": 827,
-   "open_issues": 143,
+   "stars": 6753,
+   "forks": 834,
+   "open_issues": 139,
    "language": "Python",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-08-19T20:24:54Z",
+   "pushed_at": "2026-08-20T16:17:51Z",
    "created_at": "2023-09-10T21:29:54Z",
    "description": "Memory library for building stateful agents",
    "topics": [
@@ -1589,7 +1560,7 @@
    ],
    "category": "Embeddings",
    "momentum": 73,
-   "rank": 45
+   "rank": 44
   },
   {
    "name": "genkit",
@@ -1598,12 +1569,12 @@
    "url": "https://github.com/genkit-ai/genkit",
    "owner": "genkit-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/166032008?v=4",
-   "stars": 6349,
-   "forks": 824,
-   "open_issues": 707,
+   "stars": 6351,
+   "forks": 826,
+   "open_issues": 709,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T09:07:27Z",
+   "pushed_at": "2026-08-21T07:08:17Z",
    "created_at": "2024-04-29T22:04:42Z",
    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google",
    "topics": [
@@ -1618,7 +1589,7 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 73,
-   "rank": 46
+   "rank": 45
   },
   {
    "name": "RediSearch",
@@ -1629,10 +1600,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/46899501?v=4",
    "stars": 6216,
    "forks": 590,
-   "open_issues": 685,
+   "open_issues": 678,
    "language": "Rust",
    "license": "NOASSERTION",
-   "pushed_at": "2026-08-20T09:29:42Z",
+   "pushed_at": "2026-08-21T09:26:19Z",
    "created_at": "2016-05-05T13:25:43Z",
    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.",
    "topics": [
@@ -1648,7 +1619,7 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 73,
-   "rank": 47
+   "rank": 46
   },
   {
    "name": "Agent-S",
@@ -1657,7 +1628,7 @@
    "url": "https://github.com/simular-ai/Agent-S",
    "owner": "simular-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/99358647?v=4",
-   "stars": 12174,
+   "stars": 12179,
    "forks": 1423,
    "open_issues": 40,
    "language": "Python",
@@ -1682,7 +1653,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 72,
-   "rank": 48
+   "rank": 47
   },
   {
    "name": "orama",
@@ -1718,6 +1689,35 @@
    ],
    "category": "Embeddings",
    "momentum": 72,
+   "rank": 48
+  },
+  {
+   "name": "azure-search-openai-demo",
+   "full_name": "Azure-Samples/azure-search-openai-demo",
+   "slug": "azure-samples-azure-search-openai-demo",
+   "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+   "owner": "Azure-Samples",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1844662?v=4",
+   "stars": 7741,
+   "forks": 5463,
+   "open_issues": 524,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-08-13T12:54:39Z",
+   "created_at": "2023-02-08T21:00:54Z",
+   "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.",
+   "topics": [
+    "ai-azd-templates",
+    "azd-templates",
+    "azure",
+    "azure-ai-search",
+    "azurecognitivesearch",
+    "azureopenai",
+    "chatgpt",
+    "openai"
+   ],
+   "category": "Retrieval & Search",
+   "momentum": 72,
    "rank": 49
   },
   {
@@ -1727,12 +1727,12 @@
    "url": "https://github.com/HelixDB/helix-db",
    "owner": "HelixDB",
    "owner_avatar": "https://avatars.githubusercontent.com/u/189895202?v=4",
-   "stars": 5810,
+   "stars": 5824,
    "forks": 335,
-   "open_issues": 20,
+   "open_issues": 17,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T09:22:58Z",
+   "pushed_at": "2026-08-20T16:18:53Z",
    "created_at": "2024-11-23T11:02:14Z",
    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
    "topics": [
@@ -1763,8 +1763,8 @@
    "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
    "owner": "Marker-Inc-Korea",
    "owner_avatar": "https://avatars.githubusercontent.com/u/74290595?v=4",
-   "stars": 5049,
-   "forks": 433,
+   "stars": 5051,
+   "forks": 432,
    "open_issues": 132,
    "language": "TypeScript",
    "license": "NOASSERTION",
@@ -1802,7 +1802,7 @@
    "url": "https://github.com/The-Pocket/PocketFlow",
    "owner": "The-Pocket",
    "owner_avatar": "https://avatars.githubusercontent.com/u/193350244?v=4",
-   "stars": 11118,
+   "stars": 11119,
    "forks": 1211,
    "open_issues": 74,
    "language": "Python",
@@ -1843,7 +1843,7 @@
    "url": "https://github.com/brianpetro/obsidian-smart-connections",
    "owner": "brianpetro",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1886014?v=4",
-   "stars": 5380,
+   "stars": 5382,
    "forks": 339,
    "open_issues": 489,
    "language": "JavaScript",
@@ -1874,12 +1874,12 @@
    "url": "https://github.com/vitali87/code-graph-rag",
    "owner": "vitali87",
    "owner_avatar": "https://avatars.githubusercontent.com/u/22404335?v=4",
-   "stars": 4699,
-   "forks": 619,
-   "open_issues": 48,
+   "stars": 4765,
+   "forks": 632,
+   "open_issues": 47,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-08-20T00:32:56Z",
+   "pushed_at": "2026-08-21T09:29:07Z",
    "created_at": "2025-06-16T14:31:57Z",
    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
    "topics": [
@@ -1915,7 +1915,7 @@
    "url": "https://github.com/infiniflow/infinity",
    "owner": "infiniflow",
    "owner_avatar": "https://avatars.githubusercontent.com/u/69962740?v=4",
-   "stars": 4676,
+   "stars": 4675,
    "forks": 437,
    "open_issues": 64,
    "language": "C++",
@@ -1955,12 +1955,12 @@
    "url": "https://github.com/CaviraOSS/OpenMemory",
    "owner": "CaviraOSS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/214697751?v=4",
-   "stars": 4455,
+   "stars": 4458,
    "forks": 501,
    "open_issues": 18,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T05:07:11Z",
+   "pushed_at": "2026-08-20T09:35:48Z",
    "created_at": "2025-10-19T16:12:49Z",
    "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
    "topics": [
@@ -1996,12 +1996,12 @@
    "url": "https://github.com/langflow-ai/openrag",
    "owner": "langflow-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/85702467?v=4",
-   "stars": 4438,
-   "forks": 462,
-   "open_issues": 298,
+   "stars": 4440,
+   "forks": 461,
+   "open_issues": 301,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T06:52:22Z",
+   "pushed_at": "2026-08-21T00:19:55Z",
    "created_at": "2025-07-11T16:19:14Z",
    "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
    "topics": [],
@@ -2016,12 +2016,12 @@
    "url": "https://github.com/crate/crate",
    "owner": "crate",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4048232?v=4",
-   "stars": 4423,
+   "stars": 4424,
    "forks": 608,
-   "open_issues": 333,
+   "open_issues": 330,
    "language": "Java",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T09:18:25Z",
+   "pushed_at": "2026-08-21T08:10:27Z",
    "created_at": "2013-04-10T09:17:16Z",
    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.",
    "topics": [
@@ -2057,7 +2057,7 @@
    "url": "https://github.com/crmne/ruby_llm",
    "owner": "crmne",
    "owner_avatar": "https://avatars.githubusercontent.com/u/106617?v=4",
-   "stars": 4307,
+   "stars": 4309,
    "forks": 487,
    "open_issues": 6,
    "language": "Ruby",
@@ -2092,15 +2092,45 @@
    "rank": 59
   },
   {
+   "name": "GenAI-Showcase",
+   "full_name": "mongodb-developer/GenAI-Showcase",
+   "slug": "mongodb-developer-genai-showcase",
+   "url": "https://github.com/mongodb-developer/GenAI-Showcase",
+   "owner": "mongodb-developer",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/45798453?v=4",
+   "stars": 4260,
+   "forks": 745,
+   "open_issues": 17,
+   "language": "Jupyter Notebook",
+   "license": "MIT",
+   "pushed_at": "2026-08-20T05:43:41Z",
+   "created_at": "2024-01-30T14:20:36Z",
+   "description": "MongoDB's Generative AI Showcase: an exhaustive collection of examples and sample applications covering Retrieval-Augmented Generation (RAG), AI agents, and industry-specific use cases.",
+   "topics": [
+    "agents",
+    "artificial-intelligence",
+    "atlas",
+    "generative-ai",
+    "jupyter-notebook",
+    "llms",
+    "mongodb",
+    "python",
+    "rag"
+   ],
+   "category": "Retrieval & Search",
+   "momentum": 71,
+   "rank": 60
+  },
+  {
    "name": "GenerativeAIExamples",
    "full_name": "NVIDIA/GenerativeAIExamples",
    "slug": "nvidia-generativeaiexamples",
    "url": "https://github.com/NVIDIA/GenerativeAIExamples",
    "owner": "NVIDIA",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1728152?v=4",
-   "stars": 4153,
-   "forks": 1095,
-   "open_issues": 86,
+   "stars": 4155,
+   "forks": 1094,
+   "open_issues": 85,
    "language": "Jupyter Notebook",
    "license": "Apache-2.0",
    "pushed_at": "2026-08-20T04:15:27Z",
@@ -2120,7 +2150,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 71,
-   "rank": 60
+   "rank": 61
   },
   {
    "name": "langroid",
@@ -2129,7 +2159,7 @@
    "url": "https://github.com/langroid/langroid",
    "owner": "langroid",
    "owner_avatar": "https://avatars.githubusercontent.com/u/130325191?v=4",
-   "stars": 4101,
+   "stars": 4099,
    "forks": 395,
    "open_issues": 80,
    "language": "Python",
@@ -2158,8 +2188,33 @@
     "retrieval-augmented-generation"
    ],
    "category": "Retrieval & Search",
-   "momentum": 71,
-   "rank": 61
+   "momentum": 70,
+   "rank": 62
+  },
+  {
+   "name": "FlashRAG",
+   "full_name": "RUC-NLPIR/FlashRAG",
+   "slug": "ruc-nlpir-flashrag",
+   "url": "https://github.com/RUC-NLPIR/FlashRAG",
+   "owner": "RUC-NLPIR",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/139615285?v=4",
+   "stars": 3546,
+   "forks": 312,
+   "open_issues": 37,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-08-21T07:53:25Z",
+   "created_at": "2024-03-14T01:40:33Z",
+   "description": "⚡FlashRAG: A Python Toolkit for Efficient RAG Research (WWW2025 Resource)",
+   "topics": [
+    "benchmark",
+    "datasets",
+    "large-language-models",
+    "retrieval-augmented-generation"
+   ],
+   "category": "Retrieval & Search",
+   "momentum": 70,
+   "rank": 63
   },
   {
    "name": "claude-context",
@@ -2168,7 +2223,7 @@
    "url": "https://github.com/zilliztech/claude-context",
    "owner": "zilliztech",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18416694?v=4",
-   "stars": 12418,
+   "stars": 12426,
    "forks": 914,
    "open_issues": 141,
    "language": "TypeScript",
@@ -2200,7 +2255,7 @@
    ],
    "category": "Embeddings",
    "momentum": 69,
-   "rank": 62
+   "rank": 64
   },
   {
    "name": "memory-lancedb-pro",
@@ -2209,7 +2264,7 @@
    "url": "https://github.com/CortexReach/memory-lancedb-pro",
    "owner": "CortexReach",
    "owner_avatar": "https://avatars.githubusercontent.com/u/266910790?v=4",
-   "stars": 4462,
+   "stars": 4463,
    "forks": 730,
    "open_issues": 57,
    "language": "JavaScript",
@@ -2227,7 +2282,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 69,
-   "rank": 63
+   "rank": 65
   },
   {
    "name": "SocratiCode",
@@ -2236,7 +2291,7 @@
    "url": "https://github.com/giancarloerra/SocratiCode",
    "owner": "giancarloerra",
    "owner_avatar": "https://avatars.githubusercontent.com/u/105157948?v=4",
-   "stars": 3262,
+   "stars": 3264,
    "forks": 409,
    "open_issues": 5,
    "language": "TypeScript",
@@ -2268,7 +2323,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 69,
-   "rank": 64
+   "rank": 66
   },
   {
    "name": "fastembed",
@@ -2277,9 +2332,9 @@
    "url": "https://github.com/qdrant/fastembed",
    "owner": "qdrant",
    "owner_avatar": "https://avatars.githubusercontent.com/u/73504361?v=4",
-   "stars": 3155,
-   "forks": 230,
-   "open_issues": 110,
+   "stars": 3158,
+   "forks": 231,
+   "open_issues": 111,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-08-19T16:03:23Z",
@@ -2295,7 +2350,7 @@
    ],
    "category": "Embeddings",
    "momentum": 69,
-   "rank": 65
+   "rank": 67
   },
   {
    "name": "swirl-search",
@@ -2304,7 +2359,7 @@
    "url": "https://github.com/swirlai/swirl-search",
    "owner": "swirlai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/125765320?v=4",
-   "stars": 3040,
+   "stars": 3041,
    "forks": 285,
    "open_issues": 3,
    "language": "Python",
@@ -2331,7 +2386,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 69,
-   "rank": 66
+   "rank": 68
   },
   {
    "name": "seekdb",
@@ -2340,12 +2395,12 @@
    "url": "https://github.com/oceanbase/seekdb",
    "owner": "oceanbase",
    "owner_avatar": "https://avatars.githubusercontent.com/u/82347605?v=4",
-   "stars": 2873,
-   "forks": 316,
-   "open_issues": 461,
+   "stars": 2874,
+   "forks": 317,
+   "open_issues": 465,
    "language": "C++",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T03:21:30Z",
+   "pushed_at": "2026-08-21T08:11:42Z",
    "created_at": "2025-10-21T11:31:11Z",
    "description": "The AI-Native Search Database. Best for agent storage, it unifies vector, text, structured, and semi-structured data into a single engine. This all-in-one database makes agents smarter, easier to run, and more stable.",
    "topics": [
@@ -2366,7 +2421,7 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 69,
-   "rank": 67
+   "rank": 69
   },
   {
    "name": "sie",
@@ -2375,12 +2430,12 @@
    "url": "https://github.com/superlinked/sie",
    "owner": "superlinked",
    "owner_avatar": "https://avatars.githubusercontent.com/u/94243920?v=4",
-   "stars": 2798,
-   "forks": 272,
+   "stars": 2803,
+   "forks": 271,
    "open_issues": 12,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T07:46:58Z",
+   "pushed_at": "2026-08-21T09:33:31Z",
    "created_at": "2023-11-07T10:45:53Z",
    "description": "Open-source inference server and production cluster for all the models your agent needs.",
    "topics": [
@@ -2407,7 +2462,7 @@
    ],
    "category": "Reranking",
    "momentum": 69,
-   "rank": 68
+   "rank": 70
   },
   {
    "name": "objectbox-java",
@@ -2440,7 +2495,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 68,
-   "rank": 69
+   "rank": 71
   },
   {
    "name": "bRAG-langchain",
@@ -2469,32 +2524,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 68,
-   "rank": 70
-  },
-  {
-   "name": "FlashRAG",
-   "full_name": "RUC-NLPIR/FlashRAG",
-   "slug": "ruc-nlpir-flashrag",
-   "url": "https://github.com/RUC-NLPIR/FlashRAG",
-   "owner": "RUC-NLPIR",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/139615285?v=4",
-   "stars": 3544,
-   "forks": 311,
-   "open_issues": 38,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-08-09T05:52:43Z",
-   "created_at": "2024-03-14T01:40:33Z",
-   "description": "⚡FlashRAG: A Python Toolkit for Efficient RAG Research (WWW2025 Resource)",
-   "topics": [
-    "benchmark",
-    "datasets",
-    "large-language-models",
-    "retrieval-augmented-generation"
-   ],
-   "category": "Retrieval & Search",
-   "momentum": 68,
-   "rank": 71
+   "rank": 72
   },
   {
    "name": "examples",
@@ -2504,7 +2534,7 @@
    "owner": "pinecone-io",
    "owner_avatar": "https://avatars.githubusercontent.com/u/54333248?v=4",
    "stars": 3037,
-   "forks": 1071,
+   "forks": 1070,
    "open_issues": 60,
    "language": "Jupyter Notebook",
    "license": "MIT",
@@ -2524,7 +2554,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 68,
-   "rank": 72
+   "rank": 73
   },
   {
    "name": "nestia",
@@ -2533,12 +2563,12 @@
    "url": "https://github.com/samchon/nestia",
    "owner": "samchon",
    "owner_avatar": "https://avatars.githubusercontent.com/u/13158709?v=4",
-   "stars": 2171,
+   "stars": 2172,
    "forks": 125,
-   "open_issues": 4,
+   "open_issues": 2,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-08-20T09:16:07Z",
+   "pushed_at": "2026-08-20T11:10:24Z",
    "created_at": "2021-01-20T09:12:03Z",
    "description": "NestJS Helper + AI Chatbot Development",
    "topics": [
@@ -2563,26 +2593,6 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 68,
-   "rank": 73
-  },
-  {
-   "name": "HippoRAG",
-   "full_name": "OSU-NLP-Group/HippoRAG",
-   "slug": "osu-nlp-group-hipporag",
-   "url": "https://github.com/OSU-NLP-Group/HippoRAG",
-   "owner": "OSU-NLP-Group",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/92067480?v=4",
-   "stars": 3954,
-   "forks": 417,
-   "open_issues": 7,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-29T00:02:46Z",
-   "created_at": "2024-05-23T23:07:16Z",
-   "description": "[NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank.",
-   "topics": [],
-   "category": "Graph RAG",
-   "momentum": 67,
    "rank": 74
   },
   {
@@ -2593,11 +2603,11 @@
    "owner": "matrixorigin",
    "owner_avatar": "https://avatars.githubusercontent.com/u/76932962?v=4",
    "stars": 1880,
-   "forks": 307,
-   "open_issues": 656,
+   "forks": 308,
+   "open_issues": 654,
    "language": "Go",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T09:10:00Z",
+   "pushed_at": "2026-08-21T09:03:15Z",
    "created_at": "2021-02-18T09:07:17Z",
    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications.",
    "topics": [
@@ -2635,7 +2645,7 @@
    "open_issues": 45,
    "language": "Java",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T08:03:37Z",
+   "pushed_at": "2026-08-21T07:33:26Z",
    "created_at": "2023-08-25T01:45:20Z",
    "description": "JVector: the most advanced embedded vector search engine",
    "topics": [
@@ -2684,14 +2694,34 @@
    "rank": 77
   },
   {
+   "name": "HippoRAG",
+   "full_name": "OSU-NLP-Group/HippoRAG",
+   "slug": "osu-nlp-group-hipporag",
+   "url": "https://github.com/OSU-NLP-Group/HippoRAG",
+   "owner": "OSU-NLP-Group",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/92067480?v=4",
+   "stars": 3954,
+   "forks": 419,
+   "open_issues": 7,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-29T00:02:46Z",
+   "created_at": "2024-05-23T23:07:16Z",
+   "description": "[NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank.",
+   "topics": [],
+   "category": "Graph RAG",
+   "momentum": 66,
+   "rank": 78
+  },
+  {
    "name": "agentic-rag-for-dummies",
    "full_name": "GiovanniPasq/agentic-rag-for-dummies",
    "slug": "giovannipasq-agentic-rag-for-dummies",
    "url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
    "owner": "GiovanniPasq",
    "owner_avatar": "https://avatars.githubusercontent.com/u/33225259?v=4",
-   "stars": 3913,
-   "forks": 505,
+   "stars": 3940,
+   "forks": 509,
    "open_issues": 0,
    "language": "Jupyter Notebook",
    "license": "MIT",
@@ -2721,7 +2751,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 66,
-   "rank": 78
+   "rank": 79
   },
   {
    "name": "colpali",
@@ -2730,7 +2760,7 @@
    "url": "https://github.com/illuin-tech/colpali",
    "owner": "illuin-tech",
    "owner_avatar": "https://avatars.githubusercontent.com/u/26204301?v=4",
-   "stars": 2785,
+   "stars": 2788,
    "forks": 259,
    "open_issues": 15,
    "language": "Python",
@@ -2748,7 +2778,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 66,
-   "rank": 79
+   "rank": 80
   },
   {
    "name": "generative-ai",
@@ -2757,7 +2787,7 @@
    "url": "https://github.com/genieincodebottle/generative-ai",
    "owner": "genieincodebottle",
    "owner_avatar": "https://avatars.githubusercontent.com/u/155415029?v=4",
-   "stars": 2600,
+   "stars": 2602,
    "forks": 627,
    "open_issues": 3,
    "language": "Jupyter Notebook",
@@ -2789,7 +2819,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 66,
-   "rank": 80
+   "rank": 81
   },
   {
    "name": "VexDB-Lite",
@@ -2798,8 +2828,8 @@
    "url": "https://github.com/VexDB-THU/VexDB-Lite",
    "owner": "VexDB-THU",
    "owner_avatar": "https://avatars.githubusercontent.com/u/268488849?v=4",
-   "stars": 2134,
-   "forks": 335,
+   "stars": 2182,
+   "forks": 340,
    "open_issues": 4,
    "language": "C++",
    "license": "MIT",
@@ -2809,7 +2839,7 @@
    "topics": [],
    "category": "Vector Databases",
    "momentum": 66,
-   "rank": 81
+   "rank": 82
   },
   {
    "name": "pymilvus",
@@ -2819,8 +2849,8 @@
    "owner": "milvus-io",
    "owner_avatar": "https://avatars.githubusercontent.com/u/51735404?v=4",
    "stars": 1406,
-   "forks": 452,
-   "open_issues": 341,
+   "forks": 453,
+   "open_issues": 342,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-08-19T07:15:13Z",
@@ -2838,8 +2868,8 @@
     "vector-database"
    ],
    "category": "Vector Databases",
-   "momentum": 66,
-   "rank": 82
+   "momentum": 65,
+   "rank": 83
   },
   {
    "name": "opencode-mem",
@@ -2848,9 +2878,9 @@
    "url": "https://github.com/tickernelz/opencode-mem",
    "owner": "tickernelz",
    "owner_avatar": "https://avatars.githubusercontent.com/u/10543415?v=4",
-   "stars": 1371,
-   "forks": 140,
-   "open_issues": 17,
+   "stars": 1376,
+   "forks": 141,
+   "open_issues": 18,
    "language": "TypeScript",
    "license": "",
    "pushed_at": "2026-08-19T17:06:56Z",
@@ -2858,32 +2888,6 @@
    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
    "topics": [],
    "category": "Vector Databases",
-   "momentum": 66,
-   "rank": 83
-  },
-  {
-   "name": "GPT-RAG",
-   "full_name": "Azure/GPT-RAG",
-   "slug": "azure-gpt-rag",
-   "url": "https://github.com/Azure/GPT-RAG",
-   "owner": "Azure",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/6844498?v=4",
-   "stars": 1167,
-   "forks": 316,
-   "open_issues": 8,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-08-18T09:28:03Z",
-   "created_at": "2023-06-27T13:23:44Z",
-   "description": "Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
-   "topics": [
-    "azd-templates",
-    "azure",
-    "gpt-3",
-    "gpt-4",
-    "openai"
-   ],
-   "category": "Retrieval & Search",
    "momentum": 65,
    "rank": 84
   },
@@ -2894,12 +2898,12 @@
    "url": "https://github.com/ArcadeData/arcadedb",
    "owner": "ArcadeData",
    "owner_avatar": "https://avatars.githubusercontent.com/u/32255470?v=4",
-   "stars": 1093,
+   "stars": 1095,
    "forks": 134,
-   "open_issues": 103,
+   "open_issues": 109,
    "language": "Java",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T08:08:44Z",
+   "pushed_at": "2026-08-21T09:17:42Z",
    "created_at": "2021-08-16T16:01:29Z",
    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.",
    "topics": [
@@ -2933,8 +2937,8 @@
    "url": "https://github.com/vearch/vearch",
    "owner": "vearch",
    "owner_avatar": "https://avatars.githubusercontent.com/u/40046182?v=4",
-   "stars": 2321,
-   "forks": 364,
+   "stars": 2320,
+   "forks": 365,
    "open_issues": 170,
    "language": "Python",
    "license": "Apache-2.0",
@@ -2965,7 +2969,7 @@
    "url": "https://github.com/superlinear-ai/raglite",
    "owner": "superlinear-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/32849250?v=4",
-   "stars": 1199,
+   "stars": 1198,
    "forks": 108,
    "open_issues": 13,
    "language": "Python",
@@ -2998,15 +3002,41 @@
    "rank": 87
   },
   {
+   "name": "GPT-RAG",
+   "full_name": "Azure/GPT-RAG",
+   "slug": "azure-gpt-rag",
+   "url": "https://github.com/Azure/GPT-RAG",
+   "owner": "Azure",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/6844498?v=4",
+   "stars": 1167,
+   "forks": 317,
+   "open_issues": 8,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-08-18T09:28:03Z",
+   "created_at": "2023-06-27T13:23:44Z",
+   "description": "Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+   "topics": [
+    "azd-templates",
+    "azure",
+    "gpt-3",
+    "gpt-4",
+    "openai"
+   ],
+   "category": "Retrieval & Search",
+   "momentum": 64,
+   "rank": 88
+  },
+  {
    "name": "VectorDBBench",
    "full_name": "zilliztech/VectorDBBench",
    "slug": "zilliztech-vectordbbench",
    "url": "https://github.com/zilliztech/VectorDBBench",
    "owner": "zilliztech",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18416694?v=4",
-   "stars": 1163,
+   "stars": 1164,
    "forks": 425,
-   "open_issues": 175,
+   "open_issues": 174,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-08-14T10:00:47Z",
@@ -3022,7 +3052,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 64,
-   "rank": 88
+   "rank": 89
   },
   {
    "name": "RAGHub",
@@ -3031,7 +3061,7 @@
    "url": "https://github.com/Andrew-Jang/RAGHub",
    "owner": "Andrew-Jang",
    "owner_avatar": "https://avatars.githubusercontent.com/u/25209058?v=4",
-   "stars": 1983,
+   "stars": 1984,
    "forks": 182,
    "open_issues": 0,
    "language": "",
@@ -3053,7 +3083,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 63,
-   "rank": 89
+   "rank": 90
   },
   {
    "name": "Local_Pdf_Chat_RAG",
@@ -3062,7 +3092,7 @@
    "url": "https://github.com/weiwill88/Local_Pdf_Chat_RAG",
    "owner": "weiwill88",
    "owner_avatar": "https://avatars.githubusercontent.com/u/130907725?v=4",
-   "stars": 947,
+   "stars": 948,
    "forks": 179,
    "open_issues": 1,
    "language": "Python",
@@ -3086,7 +3116,7 @@
    ],
    "category": "Reranking",
    "momentum": 63,
-   "rank": 90
+   "rank": 91
   },
   {
    "name": "NornicDB",
@@ -3097,10 +3127,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/1736223?v=4",
    "stars": 843,
    "forks": 48,
-   "open_issues": 13,
+   "open_issues": 4,
    "language": "Go",
    "license": "MIT",
-   "pushed_at": "2026-08-19T18:48:00Z",
+   "pushed_at": "2026-08-20T16:41:46Z",
    "created_at": "2025-12-06T15:46:33Z",
    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and writes. Using Neo4j Bolt/Cypher and qdrant's gRPC means you can switch with no changes while adding intelligent features like schemas, managed embeddings, reranking+llm, GPU accel, Auto-TLP, Policy-based Memory Decay, and MCP server.",
    "topics": [
@@ -3126,7 +3156,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 63,
-   "rank": 91
+   "rank": 92
   },
   {
    "name": "rag",
@@ -3135,12 +3165,12 @@
    "url": "https://github.com/NVIDIA-AI-Blueprints/rag",
    "owner": "NVIDIA-AI-Blueprints",
    "owner_avatar": "https://avatars.githubusercontent.com/u/178940881?v=4",
-   "stars": 737,
-   "forks": 316,
-   "open_issues": 71,
+   "stars": 739,
+   "forks": 318,
+   "open_issues": 70,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T08:26:30Z",
+   "pushed_at": "2026-08-20T09:44:33Z",
    "created_at": "2024-12-11T22:26:46Z",
    "description": "This NVIDIA RAG blueprint serves as a reference solution for a foundational Retrieval Augmented Generation (RAG) pipeline.",
    "topics": [
@@ -3151,37 +3181,6 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 63,
-   "rank": 92
-  },
-  {
-   "name": "endee",
-   "full_name": "endee-io/endee",
-   "slug": "endee-io-endee",
-   "url": "https://github.com/endee-io/endee",
-   "owner": "endee-io",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/241616584?v=4",
-   "stars": 1307,
-   "forks": 1663,
-   "open_issues": 31,
-   "language": "C++",
-   "license": "AGPL-3.0",
-   "pushed_at": "2026-07-29T09:56:00Z",
-   "created_at": "2026-01-24T15:25:20Z",
-   "description": "Endee.io – A high-performance vector database, designed to handle up to 1B vectors on a single node, delivering significant performance gains through optimized indexing and execution. Also available in cloud https://endee.io/",
-   "topics": [
-    "ai-search",
-    "ai-search-engine",
-    "ann",
-    "endee",
-    "hnsw",
-    "hybrid-search",
-    "image-search",
-    "vector",
-    "vector-database",
-    "vector-search-engine"
-   ],
-   "category": "Vector Databases",
-   "momentum": 62,
    "rank": 93
   },
   {
@@ -3291,12 +3290,12 @@
    "url": "https://github.com/ggozad/haiku.rag",
    "owner": "ggozad",
    "owner_avatar": "https://avatars.githubusercontent.com/u/183103?v=4",
-   "stars": 581,
+   "stars": 582,
    "forks": 39,
-   "open_issues": 8,
+   "open_issues": 9,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-08-20T09:26:54Z",
+   "pushed_at": "2026-08-21T08:46:20Z",
    "created_at": "2024-10-13T15:12:23Z",
    "description": "Agentic RAG for local and self-hosted document search: hybrid retrieval, reranking and multimodal RAG on embedded LanceDB, with Docling parsing and an MCP server",
    "topics": [
@@ -3325,14 +3324,55 @@
    "rank": 98
   },
   {
+   "name": "Deuz-SDK",
+   "full_name": "Deuz-AI/Deuz-SDK",
+   "slug": "deuz-ai-deuz-sdk",
+   "url": "https://github.com/Deuz-AI/Deuz-SDK",
+   "owner": "Deuz-AI",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/213053420?v=4",
+   "stars": 304,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-08-13T11:32:11Z",
+   "created_at": "2026-06-01T19:18:59Z",
+   "description": "Zero-dependency TypeScript framework for production AI agents: durable execution, long-term memory, hybrid RAG, MCP tool calling, human-in-the-loop approval, planning and CodeAct sandboxes. One streaming API for Claude, GPT, Gemini, Grok, Mistral and DeepSeek — Node, Bun, Deno, serverless and edge.",
+   "topics": [
+    "agent-framework",
+    "agentic-ai",
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "autonomous-agents",
+    "claude",
+    "durable-execution",
+    "gemini",
+    "human-in-the-loop",
+    "llm",
+    "mcp",
+    "model-context-protocol",
+    "multi-agent",
+    "nodejs",
+    "openai",
+    "rag",
+    "tool-calling",
+    "typescript"
+   ],
+   "category": "RAG Frameworks",
+   "momentum": 62,
+   "rank": 99
+  },
+  {
    "name": "Verba",
    "full_name": "weaviate/Verba",
    "slug": "weaviate-verba",
    "url": "https://github.com/weaviate/Verba",
    "owner": "weaviate",
    "owner_avatar": "https://avatars.githubusercontent.com/u/37794290?v=4",
-   "stars": 7711,
-   "forks": 849,
+   "stars": 7710,
+   "forks": 850,
    "open_issues": 78,
    "language": "Python",
    "license": "BSD-3-Clause",
@@ -3342,7 +3382,68 @@
    "topics": [],
    "category": "Vector Databases",
    "momentum": 61,
-   "rank": 99
+   "rank": 100
+  },
+  {
+   "name": "endee",
+   "full_name": "endee-io/endee",
+   "slug": "endee-io-endee",
+   "url": "https://github.com/endee-io/endee",
+   "owner": "endee-io",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/241616584?v=4",
+   "stars": 1305,
+   "forks": 1663,
+   "open_issues": 31,
+   "language": "C++",
+   "license": "AGPL-3.0",
+   "pushed_at": "2026-07-29T09:56:00Z",
+   "created_at": "2026-01-24T15:25:20Z",
+   "description": "Endee.io – A high-performance vector database, designed to handle up to 1B vectors on a single node, delivering significant performance gains through optimized indexing and execution. Also available in cloud https://endee.io/",
+   "topics": [
+    "ai-search",
+    "ai-search-engine",
+    "ann",
+    "endee",
+    "hnsw",
+    "hybrid-search",
+    "image-search",
+    "vector",
+    "vector-database",
+    "vector-search-engine"
+   ],
+   "category": "Vector Databases",
+   "momentum": 61,
+   "rank": 101
+  },
+  {
+   "name": "osintgpt",
+   "full_name": "estebanpdl/osintgpt",
+   "slug": "estebanpdl-osintgpt",
+   "url": "https://github.com/estebanpdl/osintgpt",
+   "owner": "estebanpdl",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/13058422?v=4",
+   "stars": 525,
+   "forks": 76,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "",
+   "pushed_at": "2026-08-20T19:00:04Z",
+   "created_at": "2023-05-04T23:41:28Z",
+   "description": "An open-source intelligence (OSINT) analysis tool leveraging GPT-powered embeddings and vector search engines for efficient data processing",
+   "topics": [
+    "embeddings",
+    "gpt-3-5-turbo",
+    "gpt-4",
+    "osint",
+    "osint-python",
+    "osint-tool",
+    "pinecone",
+    "python",
+    "qdrant"
+   ],
+   "category": "Vector Databases",
+   "momentum": 61,
+   "rank": 102
   },
   {
    "name": "uteke",
@@ -3351,7 +3452,7 @@
    "url": "https://github.com/codecoradev/uteke",
    "owner": "codecoradev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/289767358?v=4",
-   "stars": 228,
+   "stars": 229,
    "forks": 26,
    "open_issues": 5,
    "language": "Rust",
@@ -3383,7 +3484,7 @@
    ],
    "category": "Embeddings",
    "momentum": 61,
-   "rank": 100
+   "rank": 103
   },
   {
    "name": "llmware",
@@ -3392,8 +3493,8 @@
    "url": "https://github.com/llmware-ai/llmware",
    "owner": "llmware-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/145479774?v=4",
-   "stars": 14848,
-   "forks": 2949,
+   "stars": 14849,
+   "forks": 2945,
    "open_issues": 95,
    "language": "Python",
    "license": "Apache-2.0",
@@ -3413,7 +3514,7 @@
    ],
    "category": "Ingestion & Parsing",
    "momentum": 60,
-   "rank": 101
+   "rank": 104
   },
   {
    "name": "Awesome-LLM-RAG",
@@ -3441,7 +3542,7 @@
    ],
    "category": "Embeddings",
    "momentum": 60,
-   "rank": 102
+   "rank": 105
   },
   {
    "name": "RAGMeUp",
@@ -3461,7 +3562,7 @@
    "topics": [],
    "category": "RAG Frameworks",
    "momentum": 60,
-   "rank": 103
+   "rank": 106
   },
   {
    "name": "solon-ai",
@@ -3475,7 +3576,7 @@
    "open_issues": 2,
    "language": "Java",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-20T03:33:56Z",
+   "pushed_at": "2026-08-20T12:26:41Z",
    "created_at": "2025-03-04T23:42:44Z",
    "description": "Java AI application development framework (supports LLM-tool,skill; RAG; MCP; Agent-ReAct,Team-Agent). Compatible with java8 ~ java25. It can also be embedded in SpringBoot, jFinal, Vert.x, Quarkus, and other frameworks.",
    "topics": [
@@ -3497,27 +3598,7 @@
    ],
    "category": "Reranking",
    "momentum": 60,
-   "rank": 104
-  },
-  {
-   "name": "pm-knowledge-qa",
-   "full_name": "gongsun947-jpg/pm-knowledge-qa",
-   "slug": "gongsun947-jpg-pm-knowledge-qa",
-   "url": "https://github.com/gongsun947-jpg/pm-knowledge-qa",
-   "owner": "gongsun947-jpg",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/313977036?v=4",
-   "stars": 31,
-   "forks": 1,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "",
-   "pushed_at": "2026-08-15T09:39:37Z",
-   "created_at": "2026-08-15T09:39:28Z",
-   "description": "Local AI Personal Knowledge Base Q&A · Full‑Link RAG Practical Implementation (Hybrid Retrieval + Rerank Fine‑Ranking + Citation‑Enabled Generation)",
-   "topics": [],
-   "category": "Reranking",
-   "momentum": 60,
-   "rank": 105
+   "rank": 107
   },
   {
    "name": "airweave",
@@ -3526,8 +3607,8 @@
    "url": "https://github.com/airweave-ai/airweave",
    "owner": "airweave-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/192721200?v=4",
-   "stars": 6560,
-   "forks": 817,
+   "stars": 6561,
+   "forks": 816,
    "open_issues": 119,
    "language": "Python",
    "license": "MIT",
@@ -3558,7 +3639,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 59,
-   "rank": 106
+   "rank": 108
   },
   {
    "name": "dingo",
@@ -3591,7 +3672,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 59,
-   "rank": 107
+   "rank": 109
   },
   {
    "name": "sqlite-vector",
@@ -3600,7 +3681,7 @@
    "url": "https://github.com/sqliteai/sqlite-vector",
    "owner": "sqliteai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/206516623?v=4",
-   "stars": 1089,
+   "stars": 1090,
    "forks": 47,
    "open_issues": 1,
    "language": "C",
@@ -3611,7 +3692,27 @@
    "topics": [],
    "category": "RAG Frameworks",
    "momentum": 59,
-   "rank": 108
+   "rank": 110
+  },
+  {
+   "name": "pm-knowledge-qa",
+   "full_name": "gongsun947-jpg/pm-knowledge-qa",
+   "slug": "gongsun947-jpg-pm-knowledge-qa",
+   "url": "https://github.com/gongsun947-jpg/pm-knowledge-qa",
+   "owner": "gongsun947-jpg",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/313977036?v=4",
+   "stars": 31,
+   "forks": 1,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "",
+   "pushed_at": "2026-08-15T09:39:37Z",
+   "created_at": "2026-08-15T09:39:28Z",
+   "description": "Local AI Personal Knowledge Base Q&A · Full‑Link RAG Practical Implementation (Hybrid Retrieval + Rerank Fine‑Ranking + Citation‑Enabled Generation)",
+   "topics": [],
+   "category": "Reranking",
+   "momentum": 59,
+   "rank": 111
   },
   {
    "name": "Vane",
@@ -3620,9 +3721,9 @@
    "url": "https://github.com/ItzCrazyKns/Vane",
    "owner": "ItzCrazyKns",
    "owner_avatar": "https://avatars.githubusercontent.com/u/95534749?v=4",
-   "stars": 36278,
-   "forks": 4020,
-   "open_issues": 346,
+   "stars": 36317,
+   "forks": 4027,
+   "open_issues": 347,
    "language": "TypeScript",
    "license": "MIT",
    "pushed_at": "2026-04-11T14:33:06Z",
@@ -3646,7 +3747,7 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 58,
-   "rank": 109
+   "rank": 112
   },
   {
    "name": "deeplake",
@@ -3656,7 +3757,7 @@
    "owner": "activeloopai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/34816118?v=4",
    "stars": 9226,
-   "forks": 722,
+   "forks": 723,
    "open_issues": 66,
    "language": "C++",
    "license": "Apache-2.0",
@@ -3686,7 +3787,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 58,
-   "rank": 110
+   "rank": 113
   },
   {
    "name": "Awesome-RAG",
@@ -3695,7 +3796,7 @@
    "url": "https://github.com/Danielskry/Awesome-RAG",
    "owner": "Danielskry",
    "owner_avatar": "https://avatars.githubusercontent.com/u/15195014?v=4",
-   "stars": 1346,
+   "stars": 1345,
    "forks": 193,
    "open_issues": 90,
    "language": "",
@@ -3712,27 +3813,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 58,
-   "rank": 111
-  },
-  {
-   "name": "RAG_Techniques_CN",
-   "full_name": "tangpan360/RAG_Techniques_CN",
-   "slug": "tangpan360-rag-techniques-cn",
-   "url": "https://github.com/tangpan360/RAG_Techniques_CN",
-   "owner": "tangpan360",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/72056932?v=4",
-   "stars": 91,
-   "forks": 10,
-   "open_issues": 0,
-   "language": "Jupyter Notebook",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-08-12T14:33:20Z",
-   "created_at": "2026-06-15T12:31:34Z",
-   "description": "本仓库囊括了 RAG 中各技术点的学习案例，是对上游项目 NirDiamant/RAG_Techniques 的中文学习与复现版本。包括各种调优方法示例：chunk / query enhancement / retrieval / rerank / compression；  可靠性增强：相关性过滤、groundedness 检查、证据高亮；高级架构：RAPTOR / GraphRAG / Self-RAG / CRAG / MemoRAG 等。",
-   "topics": [],
-   "category": "Graph RAG",
-   "momentum": 58,
-   "rank": 112
+   "rank": 114
   },
   {
    "name": "attu",
@@ -3741,7 +3822,7 @@
    "url": "https://github.com/zilliztech/attu",
    "owner": "zilliztech",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18416694?v=4",
-   "stars": 3109,
+   "stars": 3114,
    "forks": 222,
    "open_issues": 95,
    "language": "Shell",
@@ -3756,7 +3837,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 57,
-   "rank": 113
+   "rank": 115
   },
   {
    "name": "FlashRank",
@@ -3787,50 +3868,6 @@
     "vector-search"
    ],
    "category": "Reranking",
-   "momentum": 57,
-   "rank": 114
-  },
-  {
-   "name": "vectra",
-   "full_name": "Stevenic/vectra",
-   "slug": "stevenic-vectra",
-   "url": "https://github.com/Stevenic/vectra",
-   "owner": "Stevenic",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/698939?v=4",
-   "stars": 631,
-   "forks": 51,
-   "open_issues": 25,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-07-20T16:14:55Z",
-   "created_at": "2023-04-29T19:34:52Z",
-   "description": "Vectra is a local vector database for Node.js with features similar to pinecone but built using local files.",
-   "topics": [],
-   "category": "Vector Databases",
-   "momentum": 57,
-   "rank": 115
-  },
-  {
-   "name": "FlexRAG",
-   "full_name": "ictnlp/FlexRAG",
-   "slug": "ictnlp-flexrag",
-   "url": "https://github.com/ictnlp/FlexRAG",
-   "owner": "ictnlp",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/45630465?v=4",
-   "stars": 240,
-   "forks": 26,
-   "open_issues": 8,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-08-14T12:32:56Z",
-   "created_at": "2024-12-08T01:59:56Z",
-   "description": "FlexRAG: A RAG Framework for Information Retrieval and Generation.",
-   "topics": [
-    "llms",
-    "nlp",
-    "rag"
-   ],
-   "category": "Retrieval & Search",
    "momentum": 57,
    "rank": 116
   },
@@ -3873,14 +3910,34 @@
    "rank": 117
   },
   {
+   "name": "RAG_Techniques_CN",
+   "full_name": "tangpan360/RAG_Techniques_CN",
+   "slug": "tangpan360-rag-techniques-cn",
+   "url": "https://github.com/tangpan360/RAG_Techniques_CN",
+   "owner": "tangpan360",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/72056932?v=4",
+   "stars": 91,
+   "forks": 10,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-08-12T14:33:20Z",
+   "created_at": "2026-06-15T12:31:34Z",
+   "description": "本仓库囊括了 RAG 中各技术点的学习案例，是对上游项目 NirDiamant/RAG_Techniques 的中文学习与复现版本。包括各种调优方法示例：chunk / query enhancement / retrieval / rerank / compression；  可靠性增强：相关性过滤、groundedness 检查、证据高亮；高级架构：RAPTOR / GraphRAG / Self-RAG / CRAG / MemoRAG 等。",
+   "topics": [],
+   "category": "Graph RAG",
+   "momentum": 57,
+   "rank": 118
+  },
+  {
    "name": "Prompt-Engineering-Guide",
    "full_name": "dair-ai/Prompt-Engineering-Guide",
    "slug": "dair-ai-prompt-engineering-guide",
    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
    "owner": "dair-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/30384625?v=4",
-   "stars": 77615,
-   "forks": 8531,
+   "stars": 77656,
+   "forks": 8532,
    "open_issues": 278,
    "language": "MDX",
    "license": "MIT",
@@ -3902,7 +3959,27 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 56,
-   "rank": 118
+   "rank": 119
+  },
+  {
+   "name": "vectra",
+   "full_name": "Stevenic/vectra",
+   "slug": "stevenic-vectra",
+   "url": "https://github.com/Stevenic/vectra",
+   "owner": "Stevenic",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/698939?v=4",
+   "stars": 631,
+   "forks": 51,
+   "open_issues": 25,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-07-20T16:14:55Z",
+   "created_at": "2023-04-29T19:34:52Z",
+   "description": "Vectra is a local vector database for Node.js with features similar to pinecone but built using local files.",
+   "topics": [],
+   "category": "Vector Databases",
+   "momentum": 56,
+   "rank": 120
   },
   {
    "name": "vector-storage",
@@ -3941,7 +4018,31 @@
    ],
    "category": "Vector Databases",
    "momentum": 56,
-   "rank": 119
+   "rank": 121
+  },
+  {
+   "name": "FlexRAG",
+   "full_name": "ictnlp/FlexRAG",
+   "slug": "ictnlp-flexrag",
+   "url": "https://github.com/ictnlp/FlexRAG",
+   "owner": "ictnlp",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/45630465?v=4",
+   "stars": 240,
+   "forks": 26,
+   "open_issues": 8,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-08-14T12:32:56Z",
+   "created_at": "2024-12-08T01:59:56Z",
+   "description": "FlexRAG: A RAG Framework for Information Retrieval and Generation.",
+   "topics": [
+    "llms",
+    "nlp",
+    "rag"
+   ],
+   "category": "Retrieval & Search",
+   "momentum": 56,
+   "rank": 122
   },
   {
    "name": "Awesome-GraphRAG",
@@ -3968,8 +4069,8 @@
     "retrieval-augmented-generation"
    ],
    "category": "Graph RAG",
-   "momentum": 55,
-   "rank": 120
+   "momentum": 54,
+   "rank": 123
   },
   {
    "name": "awesome-rag-production",
@@ -3978,7 +4079,7 @@
    "url": "https://github.com/Yigtwxx/awesome-rag-production",
    "owner": "Yigtwxx",
    "owner_avatar": "https://avatars.githubusercontent.com/u/156921875?v=4",
-   "stars": 204,
+   "stars": 206,
    "forks": 52,
    "open_issues": 6,
    "language": "Python",
@@ -4009,8 +4110,8 @@
     "vector-database"
    ],
    "category": "Embeddings",
-   "momentum": 55,
-   "rank": 121
+   "momentum": 54,
+   "rank": 124
   },
   {
    "name": "MineContext",
@@ -4019,7 +4120,7 @@
    "url": "https://github.com/volcengine/MineContext",
    "owner": "volcengine",
    "owner_avatar": "https://avatars.githubusercontent.com/u/67365215?v=4",
-   "stars": 5473,
+   "stars": 5480,
    "forks": 406,
    "open_issues": 121,
    "language": "Python",
@@ -4045,7 +4146,7 @@
    ],
    "category": "Embeddings",
    "momentum": 53,
-   "rank": 122
+   "rank": 125
   },
   {
    "name": "Controllable-RAG-Agent",
@@ -4076,7 +4177,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 53,
-   "rank": 123
+   "rank": 126
   },
   {
    "name": "RAGLight",
@@ -4116,7 +4217,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 52,
-   "rank": 124
+   "rank": 127
   },
   {
    "name": "embedJs",
@@ -4156,7 +4257,7 @@
    ],
    "category": "Embeddings",
    "momentum": 52,
-   "rank": 125
+   "rank": 128
   },
   {
    "name": "Agentic-RAG-R1",
@@ -4181,7 +4282,147 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 51,
-   "rank": 126
+   "rank": 129
+  },
+  {
+   "name": "RAG-FiT",
+   "full_name": "IntelLabs/RAG-FiT",
+   "slug": "intellabs-rag-fit",
+   "url": "https://github.com/IntelLabs/RAG-FiT",
+   "owner": "IntelLabs",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/1492758?v=4",
+   "stars": 769,
+   "forks": 61,
+   "open_issues": 1,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-06-08T20:39:29Z",
+   "created_at": "2024-07-23T13:20:35Z",
+   "description": "Framework for enhancing LLMs for RAG tasks using fine-tuning.",
+   "topics": [
+    "evaluation",
+    "fine-tuning",
+    "information-retrieval",
+    "llm",
+    "nlp",
+    "question-answering",
+    "rag",
+    "semantic-search"
+   ],
+   "category": "Retrieval & Search",
+   "momentum": 50,
+   "rank": 130
+  },
+  {
+   "name": "quivr",
+   "full_name": "QuivrHQ/quivr",
+   "slug": "quivrhq-quivr",
+   "url": "https://github.com/QuivrHQ/quivr",
+   "owner": "QuivrHQ",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/159330290?v=4",
+   "stars": 39411,
+   "forks": 3725,
+   "open_issues": 32,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2025-07-09T12:55:23Z",
+   "created_at": "2023-05-12T23:53:30Z",
+   "description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
+   "topics": [
+    "ai",
+    "api",
+    "chatbot",
+    "chatgpt",
+    "database",
+    "docker",
+    "framework",
+    "frontend",
+    "groq",
+    "html",
+    "javascript",
+    "llm",
+    "openai",
+    "postgresql",
+    "privacy",
+    "rag",
+    "react",
+    "security",
+    "typescript",
+    "vector"
+   ],
+   "category": "Vector Databases",
+   "momentum": 49,
+   "rank": 131
+  },
+  {
+   "name": "Langchain-Chatchat",
+   "full_name": "chatchat-space/Langchain-Chatchat",
+   "slug": "chatchat-space-langchain-chatchat",
+   "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+   "owner": "chatchat-space",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/139558948?v=4",
+   "stars": 38563,
+   "forks": 6265,
+   "open_issues": 26,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2025-11-10T09:27:42Z",
+   "created_at": "2023-03-31T12:12:45Z",
+   "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain",
+   "topics": [
+    "chatbot",
+    "chatchat",
+    "chatglm",
+    "chatgpt",
+    "embedding",
+    "faiss",
+    "fastchat",
+    "gpt",
+    "knowledge-base",
+    "langchain",
+    "langchain-chatglm",
+    "llama",
+    "llm",
+    "milvus",
+    "ollama",
+    "qwen",
+    "rag",
+    "retrieval-augmented-generation",
+    "streamlit",
+    "xinference"
+   ],
+   "category": "Vector Databases",
+   "momentum": 49,
+   "rank": 132
+  },
+  {
+   "name": "autoflow",
+   "full_name": "pingcap/autoflow",
+   "slug": "pingcap-autoflow",
+   "url": "https://github.com/pingcap/autoflow",
+   "owner": "pingcap",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/11855343?v=4",
+   "stars": 2971,
+   "forks": 194,
+   "open_issues": 74,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-04-27T13:55:14Z",
+   "created_at": "2024-02-05T06:53:14Z",
+   "description": "pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai",
+   "topics": [
+    "chatbot",
+    "cot",
+    "graphrag",
+    "knowledge-graph",
+    "mysql",
+    "rag",
+    "serverless",
+    "vector-database"
+   ],
+   "category": "Graph RAG",
+   "momentum": 49,
+   "rank": 133
   },
   {
    "name": "serverless-chat-langchainjs",
@@ -4214,148 +4455,8 @@
     "typescript"
    ],
    "category": "Retrieval & Search",
-   "momentum": 50,
-   "rank": 127
-  },
-  {
-   "name": "RAG-FiT",
-   "full_name": "IntelLabs/RAG-FiT",
-   "slug": "intellabs-rag-fit",
-   "url": "https://github.com/IntelLabs/RAG-FiT",
-   "owner": "IntelLabs",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/1492758?v=4",
-   "stars": 769,
-   "forks": 61,
-   "open_issues": 1,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-08T20:39:29Z",
-   "created_at": "2024-07-23T13:20:35Z",
-   "description": "Framework for enhancing LLMs for RAG tasks using fine-tuning.",
-   "topics": [
-    "evaluation",
-    "fine-tuning",
-    "information-retrieval",
-    "llm",
-    "nlp",
-    "question-answering",
-    "rag",
-    "semantic-search"
-   ],
-   "category": "Retrieval & Search",
-   "momentum": 50,
-   "rank": 128
-  },
-  {
-   "name": "quivr",
-   "full_name": "QuivrHQ/quivr",
-   "slug": "quivrhq-quivr",
-   "url": "https://github.com/QuivrHQ/quivr",
-   "owner": "QuivrHQ",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/159330290?v=4",
-   "stars": 39411,
-   "forks": 3727,
-   "open_issues": 35,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2025-07-09T12:55:23Z",
-   "created_at": "2023-05-12T23:53:30Z",
-   "description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
-   "topics": [
-    "ai",
-    "api",
-    "chatbot",
-    "chatgpt",
-    "database",
-    "docker",
-    "framework",
-    "frontend",
-    "groq",
-    "html",
-    "javascript",
-    "llm",
-    "openai",
-    "postgresql",
-    "privacy",
-    "rag",
-    "react",
-    "security",
-    "typescript",
-    "vector"
-   ],
-   "category": "Vector Databases",
    "momentum": 49,
-   "rank": 129
-  },
-  {
-   "name": "Langchain-Chatchat",
-   "full_name": "chatchat-space/Langchain-Chatchat",
-   "slug": "chatchat-space-langchain-chatchat",
-   "url": "https://github.com/chatchat-space/Langchain-Chatchat",
-   "owner": "chatchat-space",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/139558948?v=4",
-   "stars": 38554,
-   "forks": 6265,
-   "open_issues": 26,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2025-11-10T09:27:42Z",
-   "created_at": "2023-03-31T12:12:45Z",
-   "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain",
-   "topics": [
-    "chatbot",
-    "chatchat",
-    "chatglm",
-    "chatgpt",
-    "embedding",
-    "faiss",
-    "fastchat",
-    "gpt",
-    "knowledge-base",
-    "langchain",
-    "langchain-chatglm",
-    "llama",
-    "llm",
-    "milvus",
-    "ollama",
-    "qwen",
-    "rag",
-    "retrieval-augmented-generation",
-    "streamlit",
-    "xinference"
-   ],
-   "category": "Vector Databases",
-   "momentum": 49,
-   "rank": 130
-  },
-  {
-   "name": "autoflow",
-   "full_name": "pingcap/autoflow",
-   "slug": "pingcap-autoflow",
-   "url": "https://github.com/pingcap/autoflow",
-   "owner": "pingcap",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/11855343?v=4",
-   "stars": 2970,
-   "forks": 194,
-   "open_issues": 74,
-   "language": "TypeScript",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-04-27T13:55:14Z",
-   "created_at": "2024-02-05T06:53:14Z",
-   "description": "pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai",
-   "topics": [
-    "chatbot",
-    "cot",
-    "graphrag",
-    "knowledge-graph",
-    "mysql",
-    "rag",
-    "serverless",
-    "vector-database"
-   ],
-   "category": "Graph RAG",
-   "momentum": 49,
-   "rank": 131
+   "rank": 134
   },
   {
    "name": "storm",
@@ -4364,7 +4465,7 @@
    "url": "https://github.com/stanford-oval/storm",
    "owner": "stanford-oval",
    "owner_avatar": "https://avatars.githubusercontent.com/u/13667124?v=4",
-   "stars": 31078,
+   "stars": 31088,
    "forks": 2912,
    "open_issues": 107,
    "language": "Python",
@@ -4385,7 +4486,39 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 48,
-   "rank": 132
+   "rank": 135
+  },
+  {
+   "name": "12-factor-agents",
+   "full_name": "humanlayer/12-factor-agents",
+   "slug": "humanlayer-12-factor-agents",
+   "url": "https://github.com/humanlayer/12-factor-agents",
+   "owner": "humanlayer",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/177409041?v=4",
+   "stars": 25395,
+   "forks": 1923,
+   "open_issues": 27,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "pushed_at": "2025-09-21T14:37:40Z",
+   "created_at": "2025-03-30T22:10:39Z",
+   "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+   "topics": [
+    "12-factor",
+    "12-factor-agents",
+    "agents",
+    "ai",
+    "context-window",
+    "framework",
+    "llms",
+    "memory",
+    "orchestration",
+    "prompt-engineering",
+    "rag"
+   ],
+   "category": "RAG Frameworks",
+   "momentum": 47,
+   "rank": 136
   },
   {
    "name": "chromem-go",
@@ -4394,7 +4527,7 @@
    "url": "https://github.com/philippgille/chromem-go",
    "owner": "philippgille",
    "owner_avatar": "https://avatars.githubusercontent.com/u/170670?v=4",
-   "stars": 1046,
+   "stars": 1047,
    "forks": 75,
    "open_issues": 18,
    "language": "Go",
@@ -4420,40 +4553,8 @@
     "vector-search"
    ],
    "category": "Vector Databases",
-   "momentum": 48,
-   "rank": 133
-  },
-  {
-   "name": "12-factor-agents",
-   "full_name": "humanlayer/12-factor-agents",
-   "slug": "humanlayer-12-factor-agents",
-   "url": "https://github.com/humanlayer/12-factor-agents",
-   "owner": "humanlayer",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/177409041?v=4",
-   "stars": 25382,
-   "forks": 1922,
-   "open_issues": 27,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "pushed_at": "2025-09-21T14:37:40Z",
-   "created_at": "2025-03-30T22:10:39Z",
-   "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
-   "topics": [
-    "12-factor",
-    "12-factor-agents",
-    "agents",
-    "ai",
-    "context-window",
-    "framework",
-    "llms",
-    "memory",
-    "orchestration",
-    "prompt-engineering",
-    "rag"
-   ],
-   "category": "RAG Frameworks",
    "momentum": 47,
-   "rank": 134
+   "rank": 137
   },
   {
    "name": "hakari-bench",
@@ -4475,7 +4576,7 @@
    ],
    "category": "Reranking",
    "momentum": 47,
-   "rank": 135
+   "rank": 138
   },
   {
    "name": "rag-web-ui",
@@ -4484,7 +4585,7 @@
    "url": "https://github.com/rag-web-ui/rag-web-ui",
    "owner": "rag-web-ui",
    "owner_avatar": "https://avatars.githubusercontent.com/u/195788124?v=4",
-   "stars": 3264,
+   "stars": 3267,
    "forks": 368,
    "open_issues": 21,
    "language": "TypeScript",
@@ -4500,8 +4601,8 @@
     "rag"
    ],
    "category": "Retrieval & Search",
-   "momentum": 46,
-   "rank": 136
+   "momentum": 45,
+   "rank": 139
   },
   {
    "name": "production-rag-assistant",
@@ -4521,7 +4622,7 @@
    "topics": [],
    "category": "Reranking",
    "momentum": 45,
-   "rank": 137
+   "rank": 140
   },
   {
    "name": "VRAG",
@@ -4541,7 +4642,7 @@
    "topics": [],
    "category": "Retrieval & Search",
    "momentum": 44,
-   "rank": 138
+   "rank": 141
   },
   {
    "name": "Rankify",
@@ -4574,7 +4675,7 @@
    ],
    "category": "Reranking",
    "momentum": 44,
-   "rank": 139
+   "rank": 142
   },
   {
    "name": "ragflow-enterprise",
@@ -4596,7 +4697,7 @@
    ],
    "category": "Reranking",
    "momentum": 44,
-   "rank": 140
+   "rank": 143
   },
   {
    "name": "cognita",
@@ -4635,7 +4736,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 43,
-   "rank": 141
+   "rank": 144
   },
   {
    "name": "rag-fusion",
@@ -4644,7 +4745,7 @@
    "url": "https://github.com/Raudaschl/rag-fusion",
    "owner": "Raudaschl",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6103284?v=4",
-   "stars": 950,
+   "stars": 951,
    "forks": 115,
    "open_issues": 0,
    "language": "Python",
@@ -4665,7 +4766,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 43,
-   "rank": 142
+   "rank": 145
   },
   {
    "name": "AI_chatbot_Rag",
@@ -4685,7 +4786,7 @@
    "topics": [],
    "category": "Reranking",
    "momentum": 43,
-   "rank": 143
+   "rank": 146
   },
   {
    "name": "reor",
@@ -4695,7 +4796,7 @@
    "owner": "reorproject",
    "owner_avatar": "https://avatars.githubusercontent.com/u/152097434?v=4",
    "stars": 8570,
-   "forks": 532,
+   "forks": 530,
    "open_issues": 127,
    "language": "JavaScript",
    "license": "AGPL-3.0",
@@ -4718,7 +4819,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 42,
-   "rank": 144
+   "rank": 147
   },
   {
    "name": "deep-searcher",
@@ -4727,7 +4828,7 @@
    "url": "https://github.com/zilliztech/deep-searcher",
    "owner": "zilliztech",
    "owner_avatar": "https://avatars.githubusercontent.com/u/18416694?v=4",
-   "stars": 8062,
+   "stars": 8064,
    "forks": 775,
    "open_issues": 53,
    "language": "Python",
@@ -4756,7 +4857,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 42,
-   "rank": 145
+   "rank": 148
   },
   {
    "name": "R2R",
@@ -4785,7 +4886,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 42,
-   "rank": 146
+   "rank": 149
   },
   {
    "name": "VideoRAG",
@@ -4794,8 +4895,8 @@
    "url": "https://github.com/HKUDS/VideoRAG",
    "owner": "HKUDS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
-   "stars": 3299,
-   "forks": 467,
+   "stars": 3317,
+   "forks": 471,
    "open_issues": 21,
    "language": "Python",
    "license": "NOASSERTION",
@@ -4812,7 +4913,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 42,
-   "rank": 147
+   "rank": 150
   },
   {
    "name": "VectorRAG.Net",
@@ -4853,7 +4954,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 42,
-   "rank": 148
+   "rank": 151
   },
   {
    "name": "SproutRAG",
@@ -4873,7 +4974,7 @@
    "topics": [],
    "category": "Reranking",
    "momentum": 42,
-   "rank": 149
+   "rank": 152
   },
   {
    "name": "postgresml",
@@ -4883,7 +4984,7 @@
    "owner": "postgresml",
    "owner_avatar": "https://avatars.githubusercontent.com/u/103390393?v=4",
    "stars": 6818,
-   "forks": 365,
+   "forks": 363,
    "open_issues": 149,
    "language": "Rust",
    "license": "MIT",
@@ -4911,7 +5012,7 @@
    ],
    "category": "Embeddings",
    "momentum": 41,
-   "rank": 150
+   "rank": 153
   },
   {
    "name": "TaskingAI",
@@ -4921,7 +5022,7 @@
    "owner": "TaskingAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/148611007?v=4",
    "stars": 5398,
-   "forks": 356,
+   "forks": 355,
    "open_issues": 44,
    "language": "Python",
    "license": "Apache-2.0",
@@ -4943,7 +5044,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 40,
-   "rank": 151
+   "rank": 154
   },
   {
    "name": "CTI-RAG",
@@ -4963,7 +5064,7 @@
    "topics": [],
    "category": "Graph RAG",
    "momentum": 40,
-   "rank": 152
+   "rank": 155
   },
   {
    "name": "cozo",
@@ -4974,7 +5075,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/115786232?v=4",
    "stars": 4092,
    "forks": 163,
-   "open_issues": 49,
+   "open_issues": 50,
    "language": "Rust",
    "license": "MPL-2.0",
    "pushed_at": "2024-12-04T12:49:06Z",
@@ -4997,7 +5098,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 39,
-   "rank": 153
+   "rank": 156
   },
   {
    "name": "kuzu",
@@ -5029,7 +5130,7 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 39,
-   "rank": 154
+   "rank": 157
   },
   {
    "name": "MegaMemory",
@@ -5065,7 +5166,7 @@
    ],
    "category": "Graph RAG",
    "momentum": 39,
-   "rank": 155
+   "rank": 158
   },
   {
    "name": "document.ai",
@@ -5075,7 +5176,7 @@
    "owner": "GanymedeNil",
    "owner_avatar": "https://avatars.githubusercontent.com/u/9687786?v=4",
    "stars": 3671,
-   "forks": 325,
+   "forks": 324,
    "open_issues": 1,
    "language": "Python",
    "license": "AGPL-3.0",
@@ -5085,7 +5186,7 @@
    "topics": [],
    "category": "Vector Databases",
    "momentum": 38,
-   "rank": 156
+   "rank": 159
   },
   {
    "name": "vault-ai",
@@ -5094,7 +5195,7 @@
    "url": "https://github.com/pashpashpash/vault-ai",
    "owner": "pashpashpash",
    "owner_avatar": "https://avatars.githubusercontent.com/u/20898225?v=4",
-   "stars": 3386,
+   "stars": 3387,
    "forks": 296,
    "open_issues": 50,
    "language": "JavaScript",
@@ -5124,7 +5225,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 38,
-   "rank": 157
+   "rank": 160
   },
   {
    "name": "ChatRTX",
@@ -5133,7 +5234,7 @@
    "url": "https://github.com/NVIDIA/ChatRTX",
    "owner": "NVIDIA",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1728152?v=4",
-   "stars": 3123,
+   "stars": 3120,
    "forks": 430,
    "open_issues": 65,
    "language": "Python",
@@ -5143,39 +5244,8 @@
    "description": "A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM",
    "topics": [],
    "category": "Retrieval & Search",
-   "momentum": 38,
-   "rank": 158
-  },
-  {
-   "name": "rag-from-scratch",
-   "full_name": "pguso/rag-from-scratch",
-   "slug": "pguso-rag-from-scratch",
-   "url": "https://github.com/pguso/rag-from-scratch",
-   "owner": "pguso",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/4007140?v=4",
-   "stars": 1570,
-   "forks": 187,
-   "open_issues": 1,
-   "language": "JavaScript",
-   "license": "MIT",
-   "pushed_at": "2026-03-11T11:44:33Z",
-   "created_at": "2025-10-27T16:19:58Z",
-   "description": "Demystify RAG by building it from scratch. Local LLMs, no black boxes - real understanding of embeddings, vector search, retrieval, and context-augmented generation.",
-   "topics": [
-    "agents",
-    "ai-agents",
-    "educational",
-    "llm",
-    "node-llama-cpp",
-    "nodejs",
-    "rag",
-    "rag-chatbot",
-    "rag-pipeline",
-    "tutorial"
-   ],
-   "category": "Embeddings",
-   "momentum": 38,
-   "rank": 159
+   "momentum": 37,
+   "rank": 161
   },
   {
    "name": "prompttools",
@@ -5205,7 +5275,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 37,
-   "rank": 160
+   "rank": 162
   },
   {
    "name": "trieve",
@@ -5245,7 +5315,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 37,
-   "rank": 161
+   "rank": 163
   },
   {
    "name": "yu-ai-agent",
@@ -5254,8 +5324,8 @@
    "url": "https://github.com/liyupi/yu-ai-agent",
    "owner": "liyupi",
    "owner_avatar": "https://avatars.githubusercontent.com/u/26037703?v=4",
-   "stars": 2619,
-   "forks": 599,
+   "stars": 2621,
+   "forks": 602,
    "open_issues": 11,
    "language": "Java",
    "license": "",
@@ -5278,7 +5348,7 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 37,
-   "rank": 162
+   "rank": 164
   },
   {
    "name": "rag-cookbooks",
@@ -5287,8 +5357,8 @@
    "url": "https://github.com/athina-ai/rag-cookbooks",
    "owner": "athina-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/139258696?v=4",
-   "stars": 2565,
-   "forks": 325,
+   "stars": 2566,
+   "forks": 324,
    "open_issues": 7,
    "language": "Jupyter Notebook",
    "license": "MIT",
@@ -5313,7 +5383,38 @@
    ],
    "category": "Vector Databases",
    "momentum": 37,
-   "rank": 163
+   "rank": 165
+  },
+  {
+   "name": "rag-from-scratch",
+   "full_name": "pguso/rag-from-scratch",
+   "slug": "pguso-rag-from-scratch",
+   "url": "https://github.com/pguso/rag-from-scratch",
+   "owner": "pguso",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/4007140?v=4",
+   "stars": 1570,
+   "forks": 189,
+   "open_issues": 1,
+   "language": "JavaScript",
+   "license": "MIT",
+   "pushed_at": "2026-03-11T11:44:33Z",
+   "created_at": "2025-10-27T16:19:58Z",
+   "description": "Demystify RAG by building it from scratch. Local LLMs, no black boxes - real understanding of embeddings, vector search, retrieval, and context-augmented generation.",
+   "topics": [
+    "agents",
+    "ai-agents",
+    "educational",
+    "llm",
+    "node-llama-cpp",
+    "nodejs",
+    "rag",
+    "rag-chatbot",
+    "rag-pipeline",
+    "tutorial"
+   ],
+   "category": "Embeddings",
+   "momentum": 37,
+   "rank": 166
   },
   {
    "name": "graph-rag-agent",
@@ -5345,7 +5446,7 @@
    ],
    "category": "Graph RAG",
    "momentum": 36,
-   "rank": 164
+   "rank": 167
   },
   {
    "name": "vector-admin",
@@ -5355,7 +5456,7 @@
    "owner": "Mintplex-Labs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134426827?v=4",
    "stars": 2243,
-   "forks": 369,
+   "forks": 368,
    "open_issues": 43,
    "language": "TypeScript",
    "license": "MIT",
@@ -5386,7 +5487,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 36,
-   "rank": 165
+   "rank": 168
   },
   {
    "name": "pgvecto.rs",
@@ -5417,27 +5518,7 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 36,
-   "rank": 166
-  },
-  {
-   "name": "MODULAR-RAG-MCP-SERVER",
-   "full_name": "jerry-ai-dev/MODULAR-RAG-MCP-SERVER",
-   "slug": "jerry-ai-dev-modular-rag-mcp-server",
-   "url": "https://github.com/jerry-ai-dev/MODULAR-RAG-MCP-SERVER",
-   "owner": "jerry-ai-dev",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/256014702?v=4",
-   "stars": 1094,
-   "forks": 246,
-   "open_issues": 4,
-   "language": "Python",
-   "license": "",
-   "pushed_at": "2026-03-10T07:00:39Z",
-   "created_at": "2026-01-20T08:22:28Z",
-   "description": "A modular RAG (Retrieval-Augmented Generation) system with MCP Server architecture. Using Skill to make AI follow each step of the spec and complete the code 100% by AI.",
-   "topics": [],
-   "category": "Retrieval & Search",
-   "momentum": 36,
-   "rank": 167
+   "rank": 169
   },
   {
    "name": "scholar-rag",
@@ -5457,7 +5538,7 @@
    "topics": [],
    "category": "Reranking",
    "momentum": 36,
-   "rank": 168
+   "rank": 170
   },
   {
    "name": "MiniRAG",
@@ -5466,8 +5547,8 @@
    "url": "https://github.com/HKUDS/MiniRAG",
    "owner": "HKUDS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
-   "stars": 2008,
-   "forks": 258,
+   "stars": 2009,
+   "forks": 257,
    "open_issues": 36,
    "language": "Python",
    "license": "MIT",
@@ -5481,7 +5562,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 35,
-   "rank": 169
+   "rank": 171
   },
   {
    "name": "RAG-Survey",
@@ -5508,7 +5589,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 35,
-   "rank": 170
+   "rank": 172
   },
   {
    "name": "fastRAG",
@@ -5543,7 +5624,7 @@
    ],
    "category": "Embeddings",
    "momentum": 35,
-   "rank": 171
+   "rank": 173
   },
   {
    "name": "AgenticRAG-Survey",
@@ -5552,7 +5633,7 @@
    "url": "https://github.com/asinghcsu/AgenticRAG-Survey",
    "owner": "asinghcsu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/147361500?v=4",
-   "stars": 1719,
+   "stars": 1718,
    "forks": 185,
    "open_issues": 0,
    "language": "",
@@ -5576,7 +5657,27 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 35,
-   "rank": 172
+   "rank": 174
+  },
+  {
+   "name": "MODULAR-RAG-MCP-SERVER",
+   "full_name": "jerry-ai-dev/MODULAR-RAG-MCP-SERVER",
+   "slug": "jerry-ai-dev-modular-rag-mcp-server",
+   "url": "https://github.com/jerry-ai-dev/MODULAR-RAG-MCP-SERVER",
+   "owner": "jerry-ai-dev",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/256014702?v=4",
+   "stars": 1097,
+   "forks": 246,
+   "open_issues": 4,
+   "language": "Python",
+   "license": "",
+   "pushed_at": "2026-03-10T07:00:39Z",
+   "created_at": "2026-01-20T08:22:28Z",
+   "description": "A modular RAG (Retrieval-Augmented Generation) system with MCP Server architecture. Using Skill to make AI follow each step of the spec and complete the code 100% by AI.",
+   "topics": [],
+   "category": "Retrieval & Search",
+   "momentum": 35,
+   "rank": 175
   },
   {
    "name": "maxsim",
@@ -5596,7 +5697,7 @@
    "topics": [],
    "category": "Reranking",
    "momentum": 35,
-   "rank": 173
+   "rank": 176
   },
   {
    "name": "hyperDB",
@@ -5616,7 +5717,64 @@
    "topics": [],
    "category": "Vector Databases",
    "momentum": 34,
-   "rank": 174
+   "rank": 177
+  },
+  {
+   "name": "codefuse-chatbot",
+   "full_name": "codefuse-ai/codefuse-chatbot",
+   "slug": "codefuse-ai-codefuse-chatbot",
+   "url": "https://github.com/codefuse-ai/codefuse-chatbot",
+   "owner": "codefuse-ai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/143480819?v=4",
+   "stars": 1290,
+   "forks": 148,
+   "open_issues": 8,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2024-07-01T09:16:47Z",
+   "created_at": "2023-09-28T01:06:40Z",
+   "description": "An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG,  etc.",
+   "topics": [
+    "aiops",
+    "chatbot",
+    "code-repo-analysis",
+    "code-repo-generation",
+    "devops",
+    "gpt",
+    "knowledge-graph",
+    "langchain",
+    "multi-agent",
+    "rag",
+    "tool-learning"
+   ],
+   "category": "RAG Frameworks",
+   "momentum": 33,
+   "rank": 178
+  },
+  {
+   "name": "TrustRAG",
+   "full_name": "gomate-community/TrustRAG",
+   "slug": "gomate-community-trustrag",
+   "url": "https://github.com/gomate-community/TrustRAG",
+   "owner": "gomate-community",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/158247319?v=4",
+   "stars": 1276,
+   "forks": 138,
+   "open_issues": 11,
+   "language": "Python",
+   "license": "",
+   "pushed_at": "2026-01-07T08:00:32Z",
+   "created_at": "2024-02-04T08:51:12Z",
+   "description": "TrustRAG：The RAG Framework within Reliable input,Trusted output",
+   "topics": [
+    "deep-research",
+    "deep-search",
+    "rag",
+    "retrieval-augmented-generation"
+   ],
+   "category": "Retrieval & Search",
+   "momentum": 33,
+   "rank": 179
   },
   {
    "name": "temporal-rag",
@@ -5649,65 +5807,8 @@
     "vector-search"
    ],
    "category": "Reranking",
-   "momentum": 34,
-   "rank": 175
-  },
-  {
-   "name": "codefuse-chatbot",
-   "full_name": "codefuse-ai/codefuse-chatbot",
-   "slug": "codefuse-ai-codefuse-chatbot",
-   "url": "https://github.com/codefuse-ai/codefuse-chatbot",
-   "owner": "codefuse-ai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/143480819?v=4",
-   "stars": 1291,
-   "forks": 148,
-   "open_issues": 8,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2024-07-01T09:16:47Z",
-   "created_at": "2023-09-28T01:06:40Z",
-   "description": "An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG,  etc.",
-   "topics": [
-    "aiops",
-    "chatbot",
-    "code-repo-analysis",
-    "code-repo-generation",
-    "devops",
-    "gpt",
-    "knowledge-graph",
-    "langchain",
-    "multi-agent",
-    "rag",
-    "tool-learning"
-   ],
-   "category": "RAG Frameworks",
    "momentum": 33,
-   "rank": 176
-  },
-  {
-   "name": "TrustRAG",
-   "full_name": "gomate-community/TrustRAG",
-   "slug": "gomate-community-trustrag",
-   "url": "https://github.com/gomate-community/TrustRAG",
-   "owner": "gomate-community",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/158247319?v=4",
-   "stars": 1276,
-   "forks": 137,
-   "open_issues": 11,
-   "language": "Python",
-   "license": "",
-   "pushed_at": "2026-01-07T08:00:32Z",
-   "created_at": "2024-02-04T08:51:12Z",
-   "description": "TrustRAG：The RAG Framework within Reliable input,Trusted output",
-   "topics": [
-    "deep-research",
-    "deep-search",
-    "rag",
-    "retrieval-augmented-generation"
-   ],
-   "category": "Retrieval & Search",
-   "momentum": 33,
-   "rank": 177
+   "rank": 180
   },
   {
    "name": "swiss_army_llama",
@@ -5734,7 +5835,7 @@
    ],
    "category": "Embeddings",
    "momentum": 32,
-   "rank": 178
+   "rank": 181
   },
   {
    "name": "canopy",
@@ -5759,7 +5860,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 32,
-   "rank": 179
+   "rank": 182
   },
   {
    "name": "simple-local-rag",
@@ -5768,7 +5869,7 @@
    "url": "https://github.com/mrdbourke/simple-local-rag",
    "owner": "mrdbourke",
    "owner_avatar": "https://avatars.githubusercontent.com/u/16750345?v=4",
-   "stars": 1009,
+   "stars": 1010,
    "forks": 301,
    "open_issues": 8,
    "language": "Jupyter Notebook",
@@ -5779,7 +5880,7 @@
    "topics": [],
    "category": "Retrieval & Search",
    "momentum": 32,
-   "rank": 180
+   "rank": 183
   },
   {
    "name": "KG_RAG",
@@ -5820,7 +5921,7 @@
    ],
    "category": "Graph RAG",
    "momentum": 32,
-   "rank": 181
+   "rank": 184
   },
   {
    "name": "lantern",
@@ -5860,7 +5961,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 32,
-   "rank": 182
+   "rank": 185
   },
   {
    "name": "vectordb",
@@ -5898,7 +5999,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 32,
-   "rank": 183
+   "rank": 186
   },
   {
    "name": "sgpt",
@@ -5929,7 +6030,7 @@
    ],
    "category": "Embeddings",
    "momentum": 32,
-   "rank": 184
+   "rank": 187
   },
   {
    "name": "semantic-search-nextjs-pinecone-langchain-chatgpt",
@@ -5954,7 +6055,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 32,
-   "rank": 185
+   "rank": 188
   },
   {
    "name": "search",
@@ -5985,7 +6086,7 @@
    ],
    "category": "Embeddings",
    "momentum": 32,
-   "rank": 186
+   "rank": 189
   },
   {
    "name": "azure-search-openai-demo-csharp",
@@ -5994,8 +6095,8 @@
    "url": "https://github.com/Azure-Samples/azure-search-openai-demo-csharp",
    "owner": "Azure-Samples",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1844662?v=4",
-   "stars": 840,
-   "forks": 690,
+   "stars": 841,
+   "forks": 689,
    "open_issues": 72,
    "language": "C#",
    "license": "MIT",
@@ -6013,7 +6114,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 31,
-   "rank": 187
+   "rank": 190
   },
   {
    "name": "vectordb",
@@ -6022,7 +6123,7 @@
    "url": "https://github.com/kagisearch/vectordb",
    "owner": "kagisearch",
    "owner_avatar": "https://avatars.githubusercontent.com/u/92134518?v=4",
-   "stars": 794,
+   "stars": 793,
    "forks": 44,
    "open_issues": 8,
    "language": "Python",
@@ -6039,27 +6140,7 @@
    ],
    "category": "Embeddings",
    "momentum": 31,
-   "rank": 188
-  },
-  {
-   "name": "vlite",
-   "full_name": "sdan/vlite",
-   "slug": "sdan-vlite",
-   "url": "https://github.com/sdan/vlite",
-   "owner": "sdan",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/22898443?v=4",
-   "stars": 765,
-   "forks": 38,
-   "open_issues": 3,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2025-10-09T00:56:21Z",
-   "created_at": "2023-06-26T16:57:33Z",
-   "description": "fastest vector database made in numpy",
-   "topics": [],
-   "category": "Vector Databases",
-   "momentum": 31,
-   "rank": 189
+   "rank": 191
   },
   {
    "name": "context-portal",
@@ -6079,7 +6160,27 @@
    "topics": [],
    "category": "Graph RAG",
    "momentum": 31,
-   "rank": 190
+   "rank": 192
+  },
+  {
+   "name": "vlite",
+   "full_name": "sdan/vlite",
+   "slug": "sdan-vlite",
+   "url": "https://github.com/sdan/vlite",
+   "owner": "sdan",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/22898443?v=4",
+   "stars": 764,
+   "forks": 38,
+   "open_issues": 3,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2025-10-09T00:56:21Z",
+   "created_at": "2023-06-26T16:57:33Z",
+   "description": "fastest vector database made in numpy",
+   "topics": [],
+   "category": "Vector Databases",
+   "momentum": 31,
+   "rank": 193
   },
   {
    "name": "CORAG",
@@ -6104,7 +6205,7 @@
    ],
    "category": "Reranking",
    "momentum": 31,
-   "rank": 191
+   "rank": 194
   },
   {
    "name": "rektor-db",
@@ -6113,7 +6214,7 @@
    "url": "https://github.com/codediodeio/rektor-db",
    "owner": "codediodeio",
    "owner_avatar": "https://avatars.githubusercontent.com/u/10172199?v=4",
-   "stars": 682,
+   "stars": 683,
    "forks": 23,
    "open_issues": 87,
    "language": "",
@@ -6124,7 +6225,7 @@
    "topics": [],
    "category": "Vector Databases",
    "momentum": 30,
-   "rank": 192
+   "rank": 195
   },
   {
    "name": "FLARE",
@@ -6144,7 +6245,7 @@
    "topics": [],
    "category": "Retrieval & Search",
    "momentum": 30,
-   "rank": 193
+   "rank": 196
   },
   {
    "name": "ViDoRAG",
@@ -6164,7 +6265,7 @@
    "topics": [],
    "category": "Ingestion & Parsing",
    "momentum": 30,
-   "rank": 194
+   "rank": 197
   },
   {
    "name": "vectordb",
@@ -6191,7 +6292,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 30,
-   "rank": 195
+   "rank": 198
   },
   {
    "name": "EasyRAG",
@@ -6227,7 +6328,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 30,
-   "rank": 196
+   "rank": 199
   },
   {
    "name": "RAG-Driven-Generative-AI",
@@ -6267,32 +6368,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 30,
-   "rank": 197
-  },
-  {
-   "name": "cloudflare-rag",
-   "full_name": "RafalWilinski/cloudflare-rag",
-   "slug": "rafalwilinski-cloudflare-rag",
-   "url": "https://github.com/RafalWilinski/cloudflare-rag",
-   "owner": "RafalWilinski",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/3391616?v=4",
-   "stars": 603,
-   "forks": 91,
-   "open_issues": 7,
-   "language": "TypeScript",
-   "license": "",
-   "pushed_at": "2024-09-05T10:55:21Z",
-   "created_at": "2024-08-26T09:09:09Z",
-   "description": "Fullstack \"Chat with your PDFs\" RAG (Retrieval Augmented Generation) app built fully on Cloudflare",
-   "topics": [
-    "chatgpt",
-    "cloudflare",
-    "llm",
-    "rag"
-   ],
-   "category": "Retrieval & Search",
-   "momentum": 30,
-   "rank": 198
+   "rank": 200
   },
   {
    "name": "similarity-search-kit",
@@ -6301,7 +6377,7 @@
    "url": "https://github.com/ZachNagengast/similarity-search-kit",
    "owner": "ZachNagengast",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1981179?v=4",
-   "stars": 534,
+   "stars": 535,
    "forks": 53,
    "open_issues": 5,
    "language": "Swift",
@@ -6324,37 +6400,7 @@
    ],
    "category": "Embeddings",
    "momentum": 29,
-   "rank": 199
-  },
-  {
-   "name": "osintgpt",
-   "full_name": "estebanpdl/osintgpt",
-   "slug": "estebanpdl-osintgpt",
-   "url": "https://github.com/estebanpdl/osintgpt",
-   "owner": "estebanpdl",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/13058422?v=4",
-   "stars": 525,
-   "forks": 76,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "",
-   "pushed_at": "2023-12-11T17:06:57Z",
-   "created_at": "2023-05-04T23:41:28Z",
-   "description": "An open-source intelligence (OSINT) analysis tool leveraging GPT-powered embeddings and vector search engines for efficient data processing",
-   "topics": [
-    "embeddings",
-    "gpt-3-5-turbo",
-    "gpt-4",
-    "osint",
-    "osint-python",
-    "osint-tool",
-    "pinecone",
-    "python",
-    "qdrant"
-   ],
-   "category": "Vector Databases",
-   "momentum": 29,
-   "rank": 200
+   "rank": 201
   },
   {
    "name": "embedding_studio",
@@ -6387,7 +6433,7 @@
    ],
    "category": "Vector Databases",
    "momentum": 28,
-   "rank": 201
+   "rank": 202
   },
   {
    "name": "open-assistant-api",
@@ -6425,7 +6471,7 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 28,
-   "rank": 202
+   "rank": 203
   },
   {
    "name": "paper-rag",
@@ -6445,7 +6491,7 @@
    "topics": [],
    "category": "Reranking",
    "momentum": 28,
-   "rank": 203
+   "rank": 204
   },
   {
    "name": "arag",
@@ -6476,7 +6522,7 @@
    ],
    "category": "Graph RAG",
    "momentum": 27,
-   "rank": 204
+   "rank": 205
   },
   {
    "name": "RAGLAB",
@@ -6501,7 +6547,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 27,
-   "rank": 205
+   "rank": 206
   },
   {
    "name": "revery",
@@ -6527,7 +6573,7 @@
    ],
    "category": "Embeddings",
    "momentum": 27,
-   "rank": 206
+   "rank": 207
   },
   {
    "name": "twelvet",
@@ -6560,7 +6606,7 @@
    ],
    "category": "RAG Frameworks",
    "momentum": 26,
-   "rank": 207
+   "rank": 208
   },
   {
    "name": "SuperGlobal",
@@ -6569,7 +6615,7 @@
    "url": "https://github.com/ShihaoShao-GH/SuperGlobal",
    "owner": "ShihaoShao-GH",
    "owner_avatar": "https://avatars.githubusercontent.com/u/60146179?v=4",
-   "stars": 250,
+   "stars": 249,
    "forks": 19,
    "open_issues": 6,
    "language": "Python",
@@ -6585,7 +6631,7 @@
    ],
    "category": "Reranking",
    "momentum": 26,
-   "rank": 208
+   "rank": 209
   },
   {
    "name": "annlite",
@@ -6594,7 +6640,7 @@
    "url": "https://github.com/jina-ai/annlite",
    "owner": "jina-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/60539444?v=4",
-   "stars": 234,
+   "stars": 233,
    "forks": 24,
    "open_issues": 21,
    "language": "Python",
@@ -6615,7 +6661,7 @@
    ],
    "category": "Retrieval & Search",
    "momentum": 25,
-   "rank": 209
+   "rank": 210
   },
   {
    "name": "client-vector-search",
@@ -6644,29 +6690,6 @@
     "vector-search"
    ],
    "category": "Embeddings",
-   "momentum": 25,
-   "rank": 210
-  },
-  {
-   "name": "ragna",
-   "full_name": "Quansight/ragna",
-   "slug": "quansight-ragna",
-   "url": "https://github.com/Quansight/ragna",
-   "owner": "Quansight",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/34879953?v=4",
-   "stars": 205,
-   "forks": 31,
-   "open_issues": 64,
-   "language": "Python",
-   "license": "BSD-3-Clause",
-   "pushed_at": "2025-07-12T20:33:20Z",
-   "created_at": "2023-08-14T19:43:56Z",
-   "description": "RAG orchestration framework ⛵️",
-   "topics": [
-    "llm",
-    "rag"
-   ],
-   "category": "RAG Frameworks",
    "momentum": 25,
    "rank": 211
   },
@@ -6725,7 +6748,7 @@
    "url": "https://github.com/0xnyn/comet",
    "owner": "0xnyn",
    "owner_avatar": "https://avatars.githubusercontent.com/u/91504165?v=4",
-   "stars": 131,
+   "stars": 130,
    "forks": 8,
    "open_issues": 1,
    "language": "Go",
@@ -6802,7 +6825,7 @@
    "url": "https://github.com/DataArcTech/RagVL",
    "owner": "DataArcTech",
    "owner_avatar": "https://avatars.githubusercontent.com/u/149999489?v=4",
-   "stars": 92,
+   "stars": 91,
    "forks": 4,
    "open_issues": 5,
    "language": "Python",
@@ -6926,7 +6949,7 @@
    "url": "https://github.com/agentset-ai/awesome-rerankers",
    "owner": "agentset-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/200139246?v=4",
-   "stars": 69,
+   "stars": 70,
    "forks": 3,
    "open_issues": 0,
    "language": "",
@@ -6960,6 +6983,33 @@
    "rank": 223
   },
   {
+   "name": "OpenRag",
+   "full_name": "incidentfox/OpenRag",
+   "slug": "incidentfox-openrag",
+   "url": "https://github.com/incidentfox/OpenRag",
+   "owner": "incidentfox",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/245510496?v=4",
+   "stars": 42,
+   "forks": 8,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-02-03T20:35:19Z",
+   "created_at": "2026-02-01T03:13:56Z",
+   "description": "Multi-strategy RAG system achieving 74% Recall@10 on MultiHop-RAG. Combines RAPTOR hierarchical retrieval, knowledge graphs, HyDE, BM25, and Cohere neural reranking.",
+   "topics": [
+    "ai-sre",
+    "cohere",
+    "knowledge-graph",
+    "llm",
+    "rag",
+    "retrieval-augmented-generation"
+   ],
+   "category": "Graph RAG",
+   "momentum": 18,
+   "rank": 224
+  },
+  {
    "name": "ViDrill",
    "full_name": "xndien2004/ViDrill",
    "slug": "xndien2004-vidrill",
@@ -6984,33 +7034,6 @@
     "vlsp-2025"
    ],
    "category": "Reranking",
-   "momentum": 19,
-   "rank": 224
-  },
-  {
-   "name": "OpenRag",
-   "full_name": "incidentfox/OpenRag",
-   "slug": "incidentfox-openrag",
-   "url": "https://github.com/incidentfox/OpenRag",
-   "owner": "incidentfox",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/245510496?v=4",
-   "stars": 42,
-   "forks": 8,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-02-03T20:35:19Z",
-   "created_at": "2026-02-01T03:13:56Z",
-   "description": "Multi-strategy RAG system achieving 74% Recall@10 on MultiHop-RAG. Combines RAPTOR hierarchical retrieval, knowledge graphs, HyDE, BM25, and Cohere neural reranking.",
-   "topics": [
-    "ai-sre",
-    "cohere",
-    "knowledge-graph",
-    "llm",
-    "rag",
-    "retrieval-augmented-generation"
-   ],
-   "category": "Graph RAG",
    "momentum": 18,
    "rank": 225
   },
