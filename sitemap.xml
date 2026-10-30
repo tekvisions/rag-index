@@ -46,6 +46,7 @@
   <url><loc>https://rag.kymatalabs.com/p/oramasearch-orama/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/vespa-engine-vespa/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/genkit-ai-genkit/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rag.kymatalabs.com/p/kevinmusgrave-pytorch-metric-learning/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/wangrongsheng-awesome-llm-resources/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/azure-samples-azure-search-openai-demo/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/helixdb-helix-db/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -57,6 +58,7 @@
   <url><loc>https://rag.kymatalabs.com/p/infiniflow-infinity/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/langflow-ai-openrag/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/crate-crate/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rag.kymatalabs.com/p/mongodb-developer-genai-showcase/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/langroid-langroid/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/itzcrazykns-vane/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/ontos-ai-knowhere/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -65,14 +67,13 @@
   <url><loc>https://rag.kymatalabs.com/p/ssrajadh-sentrysearch/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/caviraoss-longmemory/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/cortexreach-memory-lancedb-pro/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://rag.kymatalabs.com/p/bragai-brag-langchain/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/ruc-nlpir-flashrag/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/qdrant-fastembed/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/oceanbase-seekdb/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/swirlai-swirl-search/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/brianpetro-obsidian-smart-connections/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/giovannipasq-agentic-rag-for-dummies/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://rag.kymatalabs.com/p/mongodb-developer-genai-showcase/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rag.kymatalabs.com/p/bragai-brag-langchain/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/giancarloerra-socraticode/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/pinecone-io-examples/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/pingcap-autoflow/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -81,10 +82,10 @@
   <url><loc>https://rag.kymatalabs.com/p/samchon-nestia/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/matrixorigin-matrixone/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/tickernelz-opencode-mem/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rag.kymatalabs.com/p/datastax-jvector/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/calmrocks-ai-engineer-notebooks/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/datawhalechina-happy-llm/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/osu-nlp-group-hipporag/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://rag.kymatalabs.com/p/datastax-jvector/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/dingodb-dingo/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/nirdiamant-controllable-rag-agent/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/khoj-ai-khoj/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -116,8 +117,8 @@
   <url><loc>https://rag.kymatalabs.com/p/the-pocket-pocketflow/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/deuz-ai-deuz-sdk/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/codecoradev-uteke/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://rag.kymatalabs.com/p/zilliztech-claude-context/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/yigtwxx-awesome-rag-production/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rag.kymatalabs.com/p/zilliztech-claude-context/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/vexdb-thu-vexdb-lite/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/sqliteai-sqlite-vector/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/sdan-vlite/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -135,15 +136,15 @@
   <url><loc>https://rag.kymatalabs.com/p/stanford-oval-storm/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/weaviate-verba/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/humanlayer-12-factor-agents/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://rag.kymatalabs.com/p/airweave-ai-airweave/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/hakari-bench-hakari-bench/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://rag.kymatalabs.com/p/activeloopai-deeplake/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rag.kymatalabs.com/p/airweave-ai-airweave/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/harinaralasetty-corag/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/amirabaskohi-sproutrag/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rag.kymatalabs.com/p/activeloopai-deeplake/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/tangpan360-rag-techniques-cn/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/prithivirajdamodaran-flashrank/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://rag.kymatalabs.com/p/nitaiaharoni1-vector-storage/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/likeslines-maker-vectorrag-net/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rag.kymatalabs.com/p/nitaiaharoni1-vector-storage/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/reorproject-reor/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/sciphi-ai-r2r/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/deep-polyu-awesome-graphrag/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -208,11 +209,11 @@
   <url><loc>https://rag.kymatalabs.com/p/devsinghsachan-unsupervised-passage-reranking/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/bytedance-r2former/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/dataarctech-ragvl/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://rag.kymatalabs.com/p/emmimal-temporal-rag/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/agentset-ai-awesome-rerankers/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/alibabaresearch-hlatr/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/morningmoni-gar/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/gasolsun36-dynamicrag/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rag.kymatalabs.com/p/emmimal-temporal-rag/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/erikkaum-maxsim/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/wilsonis-langchain-business-rag/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rag.kymatalabs.com/p/incidentfox-openrag/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
