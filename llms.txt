@@ -3,48 +3,48 @@
 > The living index of retrieval-augmented-generation tooling — RAG frameworks,
 > vector databases, embeddings & reranking — ranked daily by GitHub momentum.
 
-Updated: 2026-10-29T23:04:40.023231+00:00
+Updated: 2026-10-30T04:27:57.428325+00:00
 Tools indexed: 220
 
 ## Top RAG tools by momentum
 
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — momentum 86, ⭐143439 — Collections — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — momentum 86, ⭐138640 — Graph RAG — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. 
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) — momentum 85, ⭐93108 — Retrieval & Search — RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) — momentum 85, ⭐86541 — Ingestion & Parsing — Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdo
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) — momentum 84, ⭐78268 — Ingestion & Parsing — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for c
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) — momentum 83, ⭐59712 — Retrieval & Search — A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) — momentum 82, ⭐52735 — Ingestion & Parsing — LlamaIndex is the document processing platform for AI
-- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — momentum 82, ⭐49937 — RAG Frameworks — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) — momentum 82, ⭐46527 — Vector Databases — Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) — momentum 82, ⭐44119 — RAG Frameworks — Build resilient agents.
-- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) — momentum 81, ⭐40419 — Graph RAG — [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
-- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) — momentum 81, ⭐39893 — Ingestion & Parsing — 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — momentum 86, ⭐143450 — Collections — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — momentum 86, ⭐138827 — Graph RAG — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. 
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) — momentum 85, ⭐93140 — Retrieval & Search — RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) — momentum 85, ⭐86559 — Ingestion & Parsing — Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdo
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) — momentum 84, ⭐78286 — Ingestion & Parsing — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for c
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) — momentum 83, ⭐59714 — Retrieval & Search — A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) — momentum 82, ⭐52738 — Ingestion & Parsing — LlamaIndex is the document processing platform for AI
+- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — momentum 82, ⭐50507 — RAG Frameworks — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) — momentum 82, ⭐46533 — Vector Databases — Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) — momentum 81, ⭐44130 — RAG Frameworks — Build resilient agents.
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) — momentum 81, ⭐40425 — Graph RAG — [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) — momentum 81, ⭐39901 — Ingestion & Parsing — 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) — momentum 81, ⭐39617 — Ingestion & Parsing — An open-source engine that turns continuous content streams into search and monitoring. Durable inge
-- [microsoft/graphrag](https://github.com/microsoft/graphrag) — momentum 81, ⭐36493 — Graph RAG — A modular graph-based Retrieval-Augmented Generation (RAG) system
-- [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) — momentum 80, ⭐36508 — Ingestion & Parsing — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you 
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) — momentum 80, ⭐35915 — Reranking — Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) — momentum 80, ⭐35317 — Vector Databases — Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next gener
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — momentum 80, ⭐33084 — Retrieval & Search — Open Source AI Platform - AI Chat with advanced features that works with every LLM
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) — momentum 80, ⭐32901 — RAG Frameworks — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term me
-- [getzep/graphiti](https://github.com/getzep/graphiti) — momentum 80, ⭐32343 — Graph RAG — Build Real-Time Knowledge Graphs for AI Agents
+- [microsoft/graphrag](https://github.com/microsoft/graphrag) — momentum 81, ⭐36496 — Graph RAG — A modular graph-based Retrieval-Augmented Generation (RAG) system
+- [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) — momentum 80, ⭐36520 — Ingestion & Parsing — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you 
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) — momentum 80, ⭐35943 — Reranking — Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) — momentum 80, ⭐35321 — Vector Databases — Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next gener
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — momentum 80, ⭐33089 — Retrieval & Search — Open Source AI Platform - AI Chat with advanced features that works with every LLM
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) — momentum 80, ⭐32905 — RAG Frameworks — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term me
+- [getzep/graphiti](https://github.com/getzep/graphiti) — momentum 80, ⭐32351 — Graph RAG — Build Real-Time Knowledge Graphs for AI Agents
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) — momentum 80, ⭐30119 — Ingestion & Parsing — PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [labring/FastGPT](https://github.com/labring/FastGPT) — momentum 80, ⭐29943 — Retrieval & Search — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-
-- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) — momentum 79, ⭐56548 — RAG Frameworks — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) — momentum 79, ⭐26878 — Retrieval & Search — Open-source AI orchestration framework for building context-engineered, production-ready LLM applica
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) — momentum 78, ⭐38466 — RAG Frameworks — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-- [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) — momentum 78, ⭐24291 — Retrieval & Search — "RAG-Anything: All-in-One RAG Framework"
-- [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) — momentum 78, ⭐19234 — Reranking — State-of-the-Art Embeddings, Retrieval, and Reranking
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) — momentum 77, ⭐91952 — Ingestion & Parsing — Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit
-- [weaviate/weaviate](https://github.com/weaviate/weaviate) — momentum 77, ⭐16929 — Vector Databases — Weaviate is an open-source vector database that stores both objects and vectors, allowing for the co
-- [alibaba/zvec](https://github.com/alibaba/zvec) — momentum 77, ⭐16161 — Vector Databases — A lightweight, lightning-fast, in-process vector database
-- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) — momentum 76, ⭐32348 — Ingestion & Parsing — Python scraper based on AI
-- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) — momentum 76, ⭐13683 — Retrieval & Search — [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% st
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) — momentum 76, ⭐13323 — Vector Databases — LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the J
-- [neuml/txtai](https://github.com/neuml/txtai) — momentum 76, ⭐13044 — Embeddings — 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
-- [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) — momentum 75, ⭐12815 — Retrieval & Search — Agent S: the state-of-the-art open source computer use agents
-- [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) — momentum 75, ⭐12286 — Embeddings — Retrieval and Retrieval-augmented LLMs
-- [lancedb/lancedb](https://github.com/lancedb/lancedb) — momentum 75, ⭐11811 — Vector Databases — Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) — momentum 75, ⭐10359 — RAG Frameworks — OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine 
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) — momentum 79, ⭐56594 — RAG Frameworks — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) — momentum 79, ⭐26880 — Retrieval & Search — Open-source AI orchestration framework for building context-engineered, production-ready LLM applica
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) — momentum 78, ⭐38467 — RAG Frameworks — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+- [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) — momentum 78, ⭐24294 — Retrieval & Search — "RAG-Anything: All-in-One RAG Framework"
+- [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) — momentum 78, ⭐19236 — Reranking — State-of-the-Art Embeddings, Retrieval, and Reranking
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) — momentum 77, ⭐91966 — Ingestion & Parsing — Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) — momentum 77, ⭐16930 — Vector Databases — Weaviate is an open-source vector database that stores both objects and vectors, allowing for the co
+- [alibaba/zvec](https://github.com/alibaba/zvec) — momentum 77, ⭐16162 — Vector Databases — A lightweight, lightning-fast, in-process vector database
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) — momentum 76, ⭐32356 — Ingestion & Parsing — Python scraper based on AI
+- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) — momentum 76, ⭐13701 — Retrieval & Search — [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% st
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) — momentum 76, ⭐13325 — Vector Databases — LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the J
+- [neuml/txtai](https://github.com/neuml/txtai) — momentum 76, ⭐13046 — Embeddings — 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
+- [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) — momentum 75, ⭐12822 — Retrieval & Search — Agent S: the state-of-the-art open source computer use agents
+- [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) — momentum 75, ⭐12288 — Embeddings — Retrieval and Retrieval-augmented LLMs
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) — momentum 75, ⭐11812 — Vector Databases — Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) — momentum 75, ⭐10358 — RAG Frameworks — OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine 
 - [databendlabs/databend](https://github.com/databendlabs/databend) — momentum 74, ⭐9487 — RAG Frameworks — Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) — momentum 74, ⭐9458 — Ingestion & Parsing — One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home o
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) — momentum 74, ⭐9457 — Ingestion & Parsing — One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home o
