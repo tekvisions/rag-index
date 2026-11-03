@@ -2,7 +2,7 @@
 
 > The RAG Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-02T19:13:41.451702+00:00
+Snapshot collected: 2026-11-03T16:51:02.173784+00:00
 Current catalog records: 220
 
 ## Sources and interpretation
@@ -35,11 +35,11 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [patchy631/ai-engineering-hub](https://rag.kymatalabs.com/p/patchy631-ai-engineering-hub/) — RAG Frameworks
 - [VectifyAI/PageIndex](https://rag.kymatalabs.com/p/vectifyai-pageindex/) — Ingestion & Parsing
 - [The-Vibe-Company/quivr](https://rag.kymatalabs.com/p/the-vibe-company-quivr/) — Ingestion & Parsing
-- [microsoft/graphrag](https://rag.kymatalabs.com/p/microsoft-graphrag/) — Graph RAG
 - [Tencent/WeKnora](https://rag.kymatalabs.com/p/tencent-weknora/) — Reranking
 - [qdrant/qdrant](https://rag.kymatalabs.com/p/qdrant-qdrant/) — Vector Databases
 - [HKUDS/LightRAG](https://rag.kymatalabs.com/p/hkuds-lightrag/) — Graph RAG
 - [virgiliojr94/book-to-skill](https://rag.kymatalabs.com/p/virgiliojr94-book-to-skill/) — Ingestion & Parsing
+- [microsoft/graphrag](https://rag.kymatalabs.com/p/microsoft-graphrag/) — Graph RAG
 - [onyx-dot-app/onyx](https://rag.kymatalabs.com/p/onyx-dot-app-onyx/) — Retrieval & Search
 - [topoteretes/cognee](https://rag.kymatalabs.com/p/topoteretes-cognee/) — RAG Frameworks
 - [getzep/graphiti](https://rag.kymatalabs.com/p/getzep-graphiti/) — Graph RAG
