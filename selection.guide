@@ -1,0 +1,60 @@
+{
+  "host": "rag.kymatalabs.com",
+  "reviewed_on": "2026-11-03",
+  "title": "Choose RAG components using a retrieval task",
+  "answer": "Start with the documents and questions your system must answer. Separate ingestion, embedding, storage/search, reranking and answer generation so a change can be evaluated at the correct stage.",
+  "choices": [
+    {
+      "categories": [
+        "Ingestion & Parsing",
+        "Embeddings"
+      ],
+      "task": "Prepare searchable content",
+      "guidance": "Check format handling, chunking, language, metadata and update behavior. Keep source/version identifiers with each document."
+    },
+    {
+      "categories": [
+        "Retrieval & Search",
+        "Vector Databases",
+        "Reranking"
+      ],
+      "task": "Retrieve useful evidence",
+      "guidance": "Define relevant documents for representative queries. Evaluate retrieval and reranking before attributing answer failures to the language model."
+    },
+    {
+      "categories": [
+        "RAG Frameworks",
+        "Graph RAG"
+      ],
+      "task": "Assemble and inspect the system",
+      "guidance": "Verify integrations and evidence flow. Test whether answers cite supporting material and handle questions the sources cannot answer."
+    }
+  ],
+  "checks": [
+    "Record component/model versions, index configuration and corpus snapshot.",
+    "Use held-out questions and check retrieval relevance, answer correctness and source support separately.",
+    "Verify access filtering, update/deletion behavior and operating cost for your corpus."
+  ],
+  "unknowns": "Retrieval accuracy, grounded-answer quality, scaling limits and compatibility are not independently benchmarked in this catalog.",
+  "related": [
+    {
+      "url": "https://document.kymatalabs.com/",
+      "label": "document"
+    },
+    {
+      "url": "https://eval.kymatalabs.com/",
+      "label": "eval"
+    },
+    {
+      "url": "https://dataset.kymatalabs.com/",
+      "label": "dataset"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Published collection and scoring rules",
+      "url": "https://github.com/tekvisions/rag-index/blob/7d28046e427d694308008a2976d2b865c36f6ccf/build_data.py",
+      "reviewed_on": "2026-11-03"
+    }
+  ]
+}
