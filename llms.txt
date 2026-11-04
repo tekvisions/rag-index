@@ -2,7 +2,7 @@
 
 > The RAG Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-03T16:51:02.173784+00:00
+Snapshot collected: 2026-11-04T16:53:00.534776+00:00
 Current catalog records: 220
 
 ## Sources and interpretation
@@ -29,25 +29,25 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [headroomlabs-ai/headroom](https://rag.kymatalabs.com/p/headroomlabs-ai-headroom/) — Ingestion & Parsing
 - [meilisearch/meilisearch](https://rag.kymatalabs.com/p/meilisearch-meilisearch/) — Retrieval & Search
 - [HKUDS/DeepTutor](https://rag.kymatalabs.com/p/hkuds-deeptutor/) — RAG Frameworks
+- [run-llama/llama_index](https://rag.kymatalabs.com/p/run-llama-llama-index/) — Ingestion & Parsing
 - [milvus-io/milvus](https://rag.kymatalabs.com/p/milvus-io-milvus/) — Vector Databases
 - [langchain-ai/langgraph](https://rag.kymatalabs.com/p/langchain-ai-langgraph/) — RAG Frameworks
-- [run-llama/llama_index](https://rag.kymatalabs.com/p/run-llama-llama-index/) — Ingestion & Parsing
 - [patchy631/ai-engineering-hub](https://rag.kymatalabs.com/p/patchy631-ai-engineering-hub/) — RAG Frameworks
+- [HKUDS/LightRAG](https://rag.kymatalabs.com/p/hkuds-lightrag/) — Graph RAG
 - [VectifyAI/PageIndex](https://rag.kymatalabs.com/p/vectifyai-pageindex/) — Ingestion & Parsing
 - [The-Vibe-Company/quivr](https://rag.kymatalabs.com/p/the-vibe-company-quivr/) — Ingestion & Parsing
-- [Tencent/WeKnora](https://rag.kymatalabs.com/p/tencent-weknora/) — Reranking
-- [qdrant/qdrant](https://rag.kymatalabs.com/p/qdrant-qdrant/) — Vector Databases
-- [HKUDS/LightRAG](https://rag.kymatalabs.com/p/hkuds-lightrag/) — Graph RAG
 - [virgiliojr94/book-to-skill](https://rag.kymatalabs.com/p/virgiliojr94-book-to-skill/) — Ingestion & Parsing
+- [qdrant/qdrant](https://rag.kymatalabs.com/p/qdrant-qdrant/) — Vector Databases
 - [microsoft/graphrag](https://rag.kymatalabs.com/p/microsoft-graphrag/) — Graph RAG
+- [Tencent/WeKnora](https://rag.kymatalabs.com/p/tencent-weknora/) — Reranking
 - [onyx-dot-app/onyx](https://rag.kymatalabs.com/p/onyx-dot-app-onyx/) — Retrieval & Search
 - [topoteretes/cognee](https://rag.kymatalabs.com/p/topoteretes-cognee/) — RAG Frameworks
 - [getzep/graphiti](https://rag.kymatalabs.com/p/getzep-graphiti/) — Graph RAG
 - [opendataloader-project/opendataloader-pdf](https://rag.kymatalabs.com/p/opendataloader-project-opendataloader-pdf/) — Ingestion & Parsing
 - [labring/FastGPT](https://rag.kymatalabs.com/p/labring-fastgpt/) — Retrieval & Search
 - [deepset-ai/haystack](https://rag.kymatalabs.com/p/deepset-ai-haystack/) — Retrieval & Search
-- [HKUDS/RAG-Anything](https://rag.kymatalabs.com/p/hkuds-rag-anything/) — Retrieval & Search
 - [bojieli/ai-agent-book](https://rag.kymatalabs.com/p/bojieli-ai-agent-book/) — RAG Frameworks
+- [HKUDS/RAG-Anything](https://rag.kymatalabs.com/p/hkuds-rag-anything/) — Retrieval & Search
 - [huggingface/sentence-transformers](https://rag.kymatalabs.com/p/huggingface-sentence-transformers/) — Reranking
 - [weaviate/weaviate](https://rag.kymatalabs.com/p/weaviate-weaviate/) — Vector Databases
 - [alibaba/zvec](https://rag.kymatalabs.com/p/alibaba-zvec/) — Vector Databases
@@ -58,10 +58,10 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [ScrapeGraphAI/Scrapegraph-ai](https://rag.kymatalabs.com/p/scrapegraphai-scrapegraph-ai/) — Ingestion & Parsing
 - [simular-ai/Agent-S](https://rag.kymatalabs.com/p/simular-ai-agent-s/) — Retrieval & Search
 - [lancedb/lancedb](https://rag.kymatalabs.com/p/lancedb-lancedb/) — Vector Databases
-- [FlagOpen/FlagEmbedding](https://rag.kymatalabs.com/p/flagopen-flagembedding/) — Embeddings
 - [oceanbase/oceanbase](https://rag.kymatalabs.com/p/oceanbase-oceanbase/) — RAG Frameworks
-- [databendlabs/databend](https://rag.kymatalabs.com/p/databendlabs-databend/) — RAG Frameworks
+- [FlagOpen/FlagEmbedding](https://rag.kymatalabs.com/p/flagopen-flagembedding/) — Embeddings
 - [LearningCircuit/local-deep-research](https://rag.kymatalabs.com/p/learningcircuit-local-deep-research/) — Ingestion & Parsing
+- [databendlabs/databend](https://rag.kymatalabs.com/p/databendlabs-databend/) — RAG Frameworks
 
 <!-- Kymata discovery capabilities -->
 ## Mission and scope
