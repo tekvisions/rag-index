@@ -2,8 +2,8 @@
 
 > The RAG Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-04T16:53:00.534776+00:00
-Current catalog records: 220
+Snapshot collected: 2026-11-05T20:41:58.364094+00:00
+Current catalog records: 219
 
 ## Sources and interpretation
 
@@ -23,8 +23,8 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 ## Current catalog sample
 
 - [Graphify-Labs/graphify](https://rag.kymatalabs.com/p/graphify-labs-graphify/) — Graph RAG
-- [Shubhamsaboo/awesome-llm-apps](https://rag.kymatalabs.com/p/shubhamsaboo-awesome-llm-apps/) — Collections
 - [infiniflow/ragflow](https://rag.kymatalabs.com/p/infiniflow-ragflow/) — Retrieval & Search
+- [Shubhamsaboo/awesome-llm-apps](https://rag.kymatalabs.com/p/shubhamsaboo-awesome-llm-apps/) — Collections
 - [unclecode/crawl4ai](https://rag.kymatalabs.com/p/unclecode-crawl4ai/) — Ingestion & Parsing
 - [headroomlabs-ai/headroom](https://rag.kymatalabs.com/p/headroomlabs-ai-headroom/) — Ingestion & Parsing
 - [meilisearch/meilisearch](https://rag.kymatalabs.com/p/meilisearch-meilisearch/) — Retrieval & Search
@@ -32,14 +32,14 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [run-llama/llama_index](https://rag.kymatalabs.com/p/run-llama-llama-index/) — Ingestion & Parsing
 - [milvus-io/milvus](https://rag.kymatalabs.com/p/milvus-io-milvus/) — Vector Databases
 - [langchain-ai/langgraph](https://rag.kymatalabs.com/p/langchain-ai-langgraph/) — RAG Frameworks
-- [patchy631/ai-engineering-hub](https://rag.kymatalabs.com/p/patchy631-ai-engineering-hub/) — RAG Frameworks
 - [HKUDS/LightRAG](https://rag.kymatalabs.com/p/hkuds-lightrag/) — Graph RAG
 - [VectifyAI/PageIndex](https://rag.kymatalabs.com/p/vectifyai-pageindex/) — Ingestion & Parsing
+- [patchy631/ai-engineering-hub](https://rag.kymatalabs.com/p/patchy631-ai-engineering-hub/) — RAG Frameworks
 - [The-Vibe-Company/quivr](https://rag.kymatalabs.com/p/the-vibe-company-quivr/) — Ingestion & Parsing
 - [virgiliojr94/book-to-skill](https://rag.kymatalabs.com/p/virgiliojr94-book-to-skill/) — Ingestion & Parsing
-- [qdrant/qdrant](https://rag.kymatalabs.com/p/qdrant-qdrant/) — Vector Databases
-- [microsoft/graphrag](https://rag.kymatalabs.com/p/microsoft-graphrag/) — Graph RAG
 - [Tencent/WeKnora](https://rag.kymatalabs.com/p/tencent-weknora/) — Reranking
+- [microsoft/graphrag](https://rag.kymatalabs.com/p/microsoft-graphrag/) — Graph RAG
+- [qdrant/qdrant](https://rag.kymatalabs.com/p/qdrant-qdrant/) — Vector Databases
 - [onyx-dot-app/onyx](https://rag.kymatalabs.com/p/onyx-dot-app-onyx/) — Retrieval & Search
 - [topoteretes/cognee](https://rag.kymatalabs.com/p/topoteretes-cognee/) — RAG Frameworks
 - [getzep/graphiti](https://rag.kymatalabs.com/p/getzep-graphiti/) — Graph RAG
