@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "pingcap-autoflow",
+    "entity": "pingcap/autoflow",
+    "canonical_url": "https://rag.kymatalabs.com/p/pingcap-autoflow/",
+    "repository": "https://github.com/pingcap/autoflow",
+    "summary": "A graph-RAG knowledge-base tool documented around TiDB Vector, LlamaIndex and DSPy, with a conversational search interface.",
+    "selection_context": "Assess the publisher's architecture and deployment documentation for graph-based retrieval workflows.",
+    "limitations": "The README labels the project early-stage. Verify database and model-provider requirements, deployment resources, data handling and service costs; no installation or retrieval benchmark is claimed.",
+    "last_catalog_snapshot": "2026-11-04T16:53:00.534776+00:00",
+    "reviewed_on": "2026-11-05",
+    "primary_sources": [
+      {
+        "url": "https://github.com/pingcap/autoflow/blob/main/README.md",
+        "title": "pingcap/autoflow publisher README"
+      }
+    ]
+  },
+  {
+    "slug": "codediodeio-rektor-db",
+    "entity": "codediodeio/rektor-db",
+    "canonical_url": "https://rag.kymatalabs.com/p/codediodeio-rektor-db/",
+    "repository": "https://github.com/codediodeio/rektor-db",
+    "summary": "A historical repository whose README describes a vector-database concept as pre-revenue, pre-code and pre-vision. The reviewed source does not establish an implemented database.",
+    "selection_context": "Use this retained URL only to identify the originally referenced concept and its source, not to select a usable vector database.",
+    "limitations": "No implementation, installation instructions, operating features, maintained release or performance evidence is established by the reviewed README. This page assigns no current product rank or capability certification.",
+    "last_catalog_snapshot": "2026-11-04T16:53:00.534776+00:00",
+    "reviewed_on": "2026-11-05",
+    "primary_sources": [
+      {
+        "url": "https://github.com/codediodeio/rektor-db/blob/main/README.md",
+        "title": "codediodeio/rektor-db publisher README"
+      }
+    ],
+    "schema_type": "CreativeWork"
+  }
+]

@@ -57,7 +57,9 @@ _RAG_PHRASES = re.compile(
 _DENY = {"langchain-ai/langchain", "langgenius/dify", "open-webui/open-webui",
          "mintplex-labs/anything-llm", "n8n-io/n8n", "logspace-ai/langflow", "flowiseai/flowise",
          "safishamsi/graphify", "jeecgboot/jeecgboot", "simstudioai/sim",
-         "datawhalechina/hello-agents", "thedotmack/claude-mem", "mem0ai/mem0"}
+         "datawhalechina/hello-agents", "thedotmack/claude-mem", "mem0ai/mem0",
+         # README reviewed 2026-11-05 explicitly says pre-code; retain its URL as a concept reference.
+         "codediodeio/rektor-db"}
 _ANTI = re.compile(
     r"\b(agent platform|workflow automation|no-?code|low-?code|chatbot builder|llm app platform"
     r"|coding assistant|agent memory|memory layer|tutorial|sql injection|kubernetes operator)\b", re.I)
