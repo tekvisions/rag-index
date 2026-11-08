@@ -2,8 +2,8 @@
 
 > The RAG Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-07T15:27:14.799728+00:00
-Current catalog records: 220
+Snapshot collected: 2026-11-08T15:48:55.507523+00:00
+Current catalog records: 221
 
 ## Sources and interpretation
 
@@ -22,8 +22,8 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 
 ## Current catalog sample
 
-- [Shubhamsaboo/awesome-llm-apps](https://rag.kymatalabs.com/p/shubhamsaboo-awesome-llm-apps/) — Collections
 - [Graphify-Labs/graphify](https://rag.kymatalabs.com/p/graphify-labs-graphify/) — Graph RAG
+- [Shubhamsaboo/awesome-llm-apps](https://rag.kymatalabs.com/p/shubhamsaboo-awesome-llm-apps/) — Collections
 - [infiniflow/ragflow](https://rag.kymatalabs.com/p/infiniflow-ragflow/) — Retrieval & Search
 - [unclecode/crawl4ai](https://rag.kymatalabs.com/p/unclecode-crawl4ai/) — Ingestion & Parsing
 - [headroomlabs-ai/headroom](https://rag.kymatalabs.com/p/headroomlabs-ai-headroom/) — Ingestion & Parsing
@@ -43,25 +43,25 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [onyx-dot-app/onyx](https://rag.kymatalabs.com/p/onyx-dot-app-onyx/) — Retrieval & Search
 - [topoteretes/cognee](https://rag.kymatalabs.com/p/topoteretes-cognee/) — RAG Frameworks
 - [getzep/graphiti](https://rag.kymatalabs.com/p/getzep-graphiti/) — Graph RAG
-- [opendataloader-project/opendataloader-pdf](https://rag.kymatalabs.com/p/opendataloader-project-opendataloader-pdf/) — Ingestion & Parsing
 - [labring/FastGPT](https://rag.kymatalabs.com/p/labring-fastgpt/) — Retrieval & Search
+- [opendataloader-project/opendataloader-pdf](https://rag.kymatalabs.com/p/opendataloader-project-opendataloader-pdf/) — Ingestion & Parsing
 - [deepset-ai/haystack](https://rag.kymatalabs.com/p/deepset-ai-haystack/) — Retrieval & Search
 - [HKUDS/RAG-Anything](https://rag.kymatalabs.com/p/hkuds-rag-anything/) — Retrieval & Search
-- [huggingface/sentence-transformers](https://rag.kymatalabs.com/p/huggingface-sentence-transformers/) — Reranking
 - [bojieli/ai-agent-book](https://rag.kymatalabs.com/p/bojieli-ai-agent-book/) — RAG Frameworks
+- [huggingface/sentence-transformers](https://rag.kymatalabs.com/p/huggingface-sentence-transformers/) — Reranking
 - [weaviate/weaviate](https://rag.kymatalabs.com/p/weaviate-weaviate/) — Vector Databases
 - [alibaba/zvec](https://rag.kymatalabs.com/p/alibaba-zvec/) — Vector Databases
-- [PaddlePaddle/PaddleOCR](https://rag.kymatalabs.com/p/paddlepaddle-paddleocr/) — Ingestion & Parsing
 - [langchain4j/langchain4j](https://rag.kymatalabs.com/p/langchain4j-langchain4j/) — Vector Databases
 - [neuml/txtai](https://rag.kymatalabs.com/p/neuml-txtai/) — Embeddings
+- [PaddlePaddle/PaddleOCR](https://rag.kymatalabs.com/p/paddlepaddle-paddleocr/) — Ingestion & Parsing
 - [StarTrail-org/LEANN](https://rag.kymatalabs.com/p/startrail-org-leann/) — Retrieval & Search
 - [lancedb/lancedb](https://rag.kymatalabs.com/p/lancedb-lancedb/) — Vector Databases
 - [oceanbase/oceanbase](https://rag.kymatalabs.com/p/oceanbase-oceanbase/) — RAG Frameworks
 - [ScrapeGraphAI/Scrapegraph-ai](https://rag.kymatalabs.com/p/scrapegraphai-scrapegraph-ai/) — Ingestion & Parsing
 - [simular-ai/Agent-S](https://rag.kymatalabs.com/p/simular-ai-agent-s/) — Retrieval & Search
-- [FlagOpen/FlagEmbedding](https://rag.kymatalabs.com/p/flagopen-flagembedding/) — Embeddings
 - [LearningCircuit/local-deep-research](https://rag.kymatalabs.com/p/learningcircuit-local-deep-research/) — Ingestion & Parsing
 - [paradedb/paradedb](https://rag.kymatalabs.com/p/paradedb-paradedb/) — Ingestion & Parsing
+- [databendlabs/databend](https://rag.kymatalabs.com/p/databendlabs-databend/) — RAG Frameworks
 
 <!-- Kymata discovery capabilities -->
 ## Mission and scope
