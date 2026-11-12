@@ -2,8 +2,8 @@
 
 > The RAG Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-11T16:55:00.015746+00:00
-Current catalog records: 222
+Snapshot collected: 2026-11-12T17:23:41.592489+00:00
+Current catalog records: 223
 
 ## Sources and interpretation
 
@@ -46,11 +46,11 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [labring/FastGPT](https://rag.kymatalabs.com/p/labring-fastgpt/) — Retrieval & Search
 - [patchy631/ai-engineering-hub](https://rag.kymatalabs.com/p/patchy631-ai-engineering-hub/) — RAG Frameworks
 - [deepset-ai/haystack](https://rag.kymatalabs.com/p/deepset-ai-haystack/) — Retrieval & Search
-- [huggingface/sentence-transformers](https://rag.kymatalabs.com/p/huggingface-sentence-transformers/) — Reranking
-- [bojieli/ai-agent-book](https://rag.kymatalabs.com/p/bojieli-ai-agent-book/) — RAG Frameworks
 - [HKUDS/RAG-Anything](https://rag.kymatalabs.com/p/hkuds-rag-anything/) — Retrieval & Search
+- [huggingface/sentence-transformers](https://rag.kymatalabs.com/p/huggingface-sentence-transformers/) — Reranking
 - [weaviate/weaviate](https://rag.kymatalabs.com/p/weaviate-weaviate/) — Vector Databases
 - [alibaba/zvec](https://rag.kymatalabs.com/p/alibaba-zvec/) — Vector Databases
+- [bojieli/ai-agent-book](https://rag.kymatalabs.com/p/bojieli-ai-agent-book/) — RAG Frameworks
 - [StarTrail-org/LEANN](https://rag.kymatalabs.com/p/startrail-org-leann/) — Retrieval & Search
 - [langchain4j/langchain4j](https://rag.kymatalabs.com/p/langchain4j-langchain4j/) — Vector Databases
 - [neuml/txtai](https://rag.kymatalabs.com/p/neuml-txtai/) — Embeddings
@@ -58,10 +58,10 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [PaddlePaddle/PaddleOCR](https://rag.kymatalabs.com/p/paddlepaddle-paddleocr/) — Ingestion & Parsing
 - [lancedb/lancedb](https://rag.kymatalabs.com/p/lancedb-lancedb/) — Vector Databases
 - [oceanbase/oceanbase](https://rag.kymatalabs.com/p/oceanbase-oceanbase/) — RAG Frameworks
-- [ScrapeGraphAI/Scrapegraph-ai](https://rag.kymatalabs.com/p/scrapegraphai-scrapegraph-ai/) — Ingestion & Parsing
-- [simular-ai/Agent-S](https://rag.kymatalabs.com/p/simular-ai-agent-s/) — Retrieval & Search
 - [LearningCircuit/local-deep-research](https://rag.kymatalabs.com/p/learningcircuit-local-deep-research/) — Ingestion & Parsing
 - [paradedb/paradedb](https://rag.kymatalabs.com/p/paradedb-paradedb/) — Ingestion & Parsing
+- [databendlabs/databend](https://rag.kymatalabs.com/p/databendlabs-databend/) — RAG Frameworks
+- [MariaDB/server](https://rag.kymatalabs.com/p/mariadb-server/) — RAG Frameworks
 
 <!-- Kymata discovery capabilities -->
 ## Mission and scope
