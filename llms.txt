@@ -2,7 +2,7 @@
 
 > The RAG Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-12T17:23:41.592489+00:00
+Snapshot collected: 2026-11-13T16:57:56.176112+00:00
 Current catalog records: 223
 
 ## Sources and interpretation
@@ -54,14 +54,14 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [StarTrail-org/LEANN](https://rag.kymatalabs.com/p/startrail-org-leann/) — Retrieval & Search
 - [langchain4j/langchain4j](https://rag.kymatalabs.com/p/langchain4j-langchain4j/) — Vector Databases
 - [neuml/txtai](https://rag.kymatalabs.com/p/neuml-txtai/) — Embeddings
+- [simular-ai/Agent-S](https://rag.kymatalabs.com/p/simular-ai-agent-s/) — Retrieval & Search
 - [zilliztech/claude-context](https://rag.kymatalabs.com/p/zilliztech-claude-context/) — Embeddings
-- [PaddlePaddle/PaddleOCR](https://rag.kymatalabs.com/p/paddlepaddle-paddleocr/) — Ingestion & Parsing
 - [lancedb/lancedb](https://rag.kymatalabs.com/p/lancedb-lancedb/) — Vector Databases
-- [oceanbase/oceanbase](https://rag.kymatalabs.com/p/oceanbase-oceanbase/) — RAG Frameworks
+- [PaddlePaddle/PaddleOCR](https://rag.kymatalabs.com/p/paddlepaddle-paddleocr/) — Ingestion & Parsing
+- [oceanbase/oceanbase](https://rag.kymatalabs.com/p/oceanbase-oceanbase/) — Vector Databases
 - [LearningCircuit/local-deep-research](https://rag.kymatalabs.com/p/learningcircuit-local-deep-research/) — Ingestion & Parsing
 - [paradedb/paradedb](https://rag.kymatalabs.com/p/paradedb-paradedb/) — Ingestion & Parsing
 - [databendlabs/databend](https://rag.kymatalabs.com/p/databendlabs-databend/) — RAG Frameworks
-- [MariaDB/server](https://rag.kymatalabs.com/p/mariadb-server/) — RAG Frameworks
 
 <!-- Kymata discovery capabilities -->
 ## Mission and scope
@@ -82,3 +82,12 @@ Discover retrieval, vector search and knowledge-grounded AI tools.
 
 - [Machine-readable capabilities, resources and dated coverage](https://rag.kymatalabs.com/capabilities.json)
 - The capabilities document uses Kymata's descriptive format; it is not a standard agent tool protocol.
+
+## More from Kymata Labs
+Other products from the same publisher. They are not part of this index or its rankings.
+- [Keyspoken](https://keyspoken.com/): On-device dictation for iPhone
+- [Kymata Health](https://kymatahealth.com/): Evidence-based health guides and calculators
+- [CrowLingo](https://crowlingo.org/): American crow call atlas
+- [Verse Made Simple](https://www.versemadesimple.com/): Bible verses in three reading styles
+- [PercentEase](https://percentease.com/): Percentage calculator
+- [Enzo Adventures](https://enzoadventures.com/): Comic stories and coloring books
