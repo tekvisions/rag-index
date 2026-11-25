@@ -261,6 +261,87 @@
         }
       ],
       "schema_type": "CreativeWork"
+    },
+    {
+      "slug": "hkuds-minirag",
+      "entity": "HKUDS/MiniRAG",
+      "canonical_url": "https://rag.kymatalabs.com/p/hkuds-minirag/",
+      "repository": "https://github.com/HKUDS/MiniRAG",
+      "summary": "Publisher description of HKUDS/MiniRAG: [ACL2026] \"MiniRAG: Making RAG Simpler with Small and Open-Sourced Language Models\". The saved 2026-11-13 catalog classified it under Retrieval & Search.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Retrieval & Search work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-13T16:57:56.176112+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "primary_sources": [
+        {
+          "url": "https://github.com/HKUDS/MiniRAG/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "d5e2366da0c7eb5bff8754b570fd9b943f82c87239a26f1a57848363b5d29510",
+          "blob_sha": "d2a28eb04359e75c690536a4cb81eff542108c8b"
+        }
+      ]
+    },
+    {
+      "slug": "humanlayer-12-factor-agents",
+      "entity": "humanlayer/12-factor-agents",
+      "canonical_url": "https://rag.kymatalabs.com/p/humanlayer-12-factor-agents/",
+      "repository": "https://github.com/humanlayer/12-factor-agents",
+      "summary": "Publisher description of humanlayer/12-factor-agents: What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? The saved 2026-11-13 catalog classified it under RAG Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for RAG Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-13T16:57:56.176112+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "primary_sources": [
+        {
+          "url": "https://github.com/humanlayer/12-factor-agents/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "898b8879be9279c5c90e302e58232ac4f4f4ab051efe69cff30738b2efbac3c7",
+          "blob_sha": "bf87693afef770e5da83ab3109b90f734f60b6e6"
+        }
+      ]
+    },
+    {
+      "slug": "nitaiaharoni1-vector-storage",
+      "entity": "nitaiaharoni1/vector-storage",
+      "canonical_url": "https://rag.kymatalabs.com/p/nitaiaharoni1-vector-storage/",
+      "repository": "https://github.com/nitaiaharoni1/vector-storage",
+      "summary": "Publisher description of nitaiaharoni1/vector-storage: Vector Storage is a vector database that enables semantic similarity searches on text documents in the browser's local storage. It uses OpenAI embeddings to convert documents into vectors and allows searching for similar documents based on cosine similarity. The saved 2026-11-13 catalog classified it under Vector Databases.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Vector Databases work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-13T16:57:56.176112+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "primary_sources": [
+        {
+          "url": "https://github.com/nitaiaharoni1/vector-storage/blob/master/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "9859315a4062e997f92e313bc099ce5bc4dfc564ddb878f4e2a4e5eba9ac06f2",
+          "blob_sha": "5574a5f0aef1e42191b1f62823064f1a71e27e79"
+        }
+      ]
+    },
+    {
+      "slug": "wangchuanbo123-ragflow-enterprise",
+      "entity": "wangchuanbo123/ragflow-enterprise",
+      "canonical_url": "https://rag.kymatalabs.com/p/wangchuanbo123-ragflow-enterprise/",
+      "repository": "https://github.com/wangchuanbo123/rag-enterprise",
+      "summary": "Publisher description of wangchuanbo123/ragflow-enterprise: 🚀 Enterprise-level RAG system built with LangGraph, featuring hybrid retrieval, reranking, query rewriting, and incremental indexing. The saved 2026-11-13 catalog classified it under Reranking.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Reranking work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements. GitHub now resolves wangchuanbo123/ragflow-enterprise to wangchuanbo123/rag-enterprise. Confirm the current scope under that name.",
+      "last_catalog_snapshot": "2026-11-13T16:57:56.176112+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "previous_repository": "https://github.com/wangchuanbo123/ragflow-enterprise",
+      "primary_sources": [
+        {
+          "url": "https://github.com/wangchuanbo123/rag-enterprise/blob/master/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "cedf130b6569d2c0e0549fae4781feacc68ba0bfcc0b9fc60bef9c43bc97f103",
+          "blob_sha": "43a488f0c1059a6b31bb11d98f1ce7da3a5d520c"
+        }
+      ]
     }
   ],
   "retirements": [],
