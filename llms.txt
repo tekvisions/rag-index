@@ -2,7 +2,7 @@
 
 > The RAG Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-25T21:00:17.881303+00:00
+Snapshot collected: 2026-11-25T22:04:30.440486+00:00
 Current catalog records: 223
 
 ## Sources and interpretation
