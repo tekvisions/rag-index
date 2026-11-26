@@ -2,7 +2,7 @@
 
 > The RAG Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-25T22:04:30.440486+00:00
+Snapshot collected: 2026-11-26T18:50:59.015994+00:00
 Current catalog records: 223
 
 ## Sources and interpretation
@@ -36,9 +36,9 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [langchain-ai/langgraph](https://rag.kymatalabs.com/p/langchain-ai-langgraph/) — RAG Frameworks
 - [HKUDS/LightRAG](https://rag.kymatalabs.com/p/hkuds-lightrag/) — Graph RAG
 - [VectifyAI/PageIndex](https://rag.kymatalabs.com/p/vectifyai-pageindex/) — Ingestion & Parsing
+- [The-Vibe-Company/quivr](https://rag.kymatalabs.com/p/the-vibe-company-quivr/) — Vector Databases
 - [virgiliojr94/book-to-skill](https://rag.kymatalabs.com/p/virgiliojr94-book-to-skill/) — Ingestion & Parsing
 - [Tencent/WeKnora](https://rag.kymatalabs.com/p/tencent-weknora/) — Reranking
-- [The-Vibe-Company/quivr](https://rag.kymatalabs.com/p/the-vibe-company-quivr/) — Ingestion & Parsing
 - [microsoft/graphrag](https://rag.kymatalabs.com/p/microsoft-graphrag/) — Graph RAG
 - [qdrant/qdrant](https://rag.kymatalabs.com/p/qdrant-qdrant/) — Vector Databases
 - [topoteretes/cognee](https://rag.kymatalabs.com/p/topoteretes-cognee/) — RAG Frameworks
@@ -48,17 +48,17 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [labring/FastGPT](https://rag.kymatalabs.com/p/labring-fastgpt/) — Retrieval & Search
 - [deepset-ai/haystack](https://rag.kymatalabs.com/p/deepset-ai-haystack/) — Retrieval & Search
 - [HKUDS/RAG-Anything](https://rag.kymatalabs.com/p/hkuds-rag-anything/) — Retrieval & Search
-- [patchy631/ai-engineering-hub](https://rag.kymatalabs.com/p/patchy631-ai-engineering-hub/) — RAG Frameworks
 - [huggingface/sentence-transformers](https://rag.kymatalabs.com/p/huggingface-sentence-transformers/) — Reranking
 - [weaviate/weaviate](https://rag.kymatalabs.com/p/weaviate-weaviate/) — Vector Databases
 - [alibaba/zvec](https://rag.kymatalabs.com/p/alibaba-zvec/) — Vector Databases
+- [patchy631/ai-engineering-hub](https://rag.kymatalabs.com/p/patchy631-ai-engineering-hub/) — RAG Frameworks
 - [StarTrail-org/LEANN](https://rag.kymatalabs.com/p/startrail-org-leann/) — Retrieval & Search
 - [neuml/txtai](https://rag.kymatalabs.com/p/neuml-txtai/) — Embeddings
 - [langchain4j/langchain4j](https://rag.kymatalabs.com/p/langchain4j-langchain4j/) — Vector Databases
 - [simular-ai/Agent-S](https://rag.kymatalabs.com/p/simular-ai-agent-s/) — Retrieval & Search
 - [zilliztech/claude-context](https://rag.kymatalabs.com/p/zilliztech-claude-context/) — Embeddings
 - [lancedb/lancedb](https://rag.kymatalabs.com/p/lancedb-lancedb/) — Vector Databases
-- [oceanbase/oceanbase](https://rag.kymatalabs.com/p/oceanbase-oceanbase/) — RAG Frameworks
+- [oceanbase/oceanbase](https://rag.kymatalabs.com/p/oceanbase-oceanbase/) — Vector Databases
 - [LearningCircuit/local-deep-research](https://rag.kymatalabs.com/p/learningcircuit-local-deep-research/) — Ingestion & Parsing
 - [paradedb/paradedb](https://rag.kymatalabs.com/p/paradedb-paradedb/) — Ingestion & Parsing
 - [databendlabs/databend](https://rag.kymatalabs.com/p/databendlabs-databend/) — RAG Frameworks
