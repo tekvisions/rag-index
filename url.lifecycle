@@ -342,6 +342,29 @@
           "blob_sha": "43a488f0c1059a6b31bb11d98f1ce7da3a5d520c"
         }
       ]
+    },
+    {
+      "slug": "zilliztech-attu",
+      "entity": "zilliztech/attu",
+      "canonical_url": "https://rag.kymatalabs.com/p/zilliztech-attu/",
+      "repository": "https://github.com/zilliztech/attu",
+      "summary": "Publisher description of zilliztech/attu: The Best GUI for Milvus. The saved 2026-11-26 catalog classified it under Vector Databases.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Vector Databases work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Automated dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-26T18:50:59.015994+00:00",
+      "reviewed_on": "2026-11-27",
+      "last_successful_source_commit": "40f445ea4c6bb44d8b7d7e99873b5bd1c3bb3dc6",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "upstream_status": "publisher source reachable (HTTP 200) on the 2026-11-27 automated check",
+      "primary_sources": [
+        {
+          "url": "https://github.com/zilliztech/attu/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "fe6116e7fbbcdd45116c86857d7c627bc189c205a3b8ab90aa103215c3143483",
+          "blob_sha": "3b8fd85657144ae5749b9209aa727b7e42fcc793"
+        }
+      ],
+      "evidence_sha256": "fe6116e7fbbcdd45116c86857d7c627bc189c205a3b8ab90aa103215c3143483"
     }
   ],
   "retirements": [],
