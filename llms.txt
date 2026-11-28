@@ -2,7 +2,7 @@
 
 > The RAG Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-27T18:42:18.285422+00:00
+Snapshot collected: 2026-11-28T17:23:27.617023+00:00
 Current catalog records: 222
 
 ## Sources and interpretation
@@ -25,8 +25,8 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [Graphify-Labs/graphify](https://rag.kymatalabs.com/p/graphify-labs-graphify/) — Graph RAG
 - [Shubhamsaboo/awesome-llm-apps](https://rag.kymatalabs.com/p/shubhamsaboo-awesome-llm-apps/) — Collections
 - [infiniflow/ragflow](https://rag.kymatalabs.com/p/infiniflow-ragflow/) — Retrieval & Search
-- [unclecode/crawl4ai](https://rag.kymatalabs.com/p/unclecode-crawl4ai/) — Ingestion & Parsing
 - [headroomlabs-ai/headroom](https://rag.kymatalabs.com/p/headroomlabs-ai-headroom/) — Ingestion & Parsing
+- [unclecode/crawl4ai](https://rag.kymatalabs.com/p/unclecode-crawl4ai/) — Ingestion & Parsing
 - [HKUDS/DeepTutor](https://rag.kymatalabs.com/p/hkuds-deeptutor/) — RAG Frameworks
 - [bojieli/ai-agent-book](https://rag.kymatalabs.com/p/bojieli-ai-agent-book/) — RAG Frameworks
 - [meilisearch/meilisearch](https://rag.kymatalabs.com/p/meilisearch-meilisearch/) — Retrieval & Search
@@ -50,8 +50,8 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [HKUDS/RAG-Anything](https://rag.kymatalabs.com/p/hkuds-rag-anything/) — Retrieval & Search
 - [huggingface/sentence-transformers](https://rag.kymatalabs.com/p/huggingface-sentence-transformers/) — Reranking
 - [weaviate/weaviate](https://rag.kymatalabs.com/p/weaviate-weaviate/) — Vector Databases
-- [alibaba/zvec](https://rag.kymatalabs.com/p/alibaba-zvec/) — Vector Databases
 - [patchy631/ai-engineering-hub](https://rag.kymatalabs.com/p/patchy631-ai-engineering-hub/) — RAG Frameworks
+- [alibaba/zvec](https://rag.kymatalabs.com/p/alibaba-zvec/) — Vector Databases
 - [neuml/txtai](https://rag.kymatalabs.com/p/neuml-txtai/) — Embeddings
 - [langchain4j/langchain4j](https://rag.kymatalabs.com/p/langchain4j-langchain4j/) — Vector Databases
 - [simular-ai/Agent-S](https://rag.kymatalabs.com/p/simular-ai-agent-s/) — Retrieval & Search
